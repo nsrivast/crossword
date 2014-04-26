@@ -1,0 +1,17 @@
+8391	Facades	FRONTS	6	0	2013	xwords/May1213.puz	1	_ _ _ N _ _	FRONTS	true	2.255563	nikhil
+7657	Outfielder's cry	IGOTIT	6	4	2013	xwords/May0213.puz	3	I _ O T _ _	IGOTIT	true	2.311913	nikhil
+7297	Go by	ELAPSE	6	5	2001	xwords/Aug3101.puz	4	E _ A _ S E	ELAPSE	true	3.847808	nikhil
+9301	Cohort of Athos	ARAMIS	6	3	2013	xwords/May2213.puz	1	_ _ A _ _ _	SHATOS	false	7.487649	nikhil
+980	Museum person	DOCENT	6	5	2005	xwords/Aug0505.puz	5	_ O C E N T	DOCENT	true	2.519668	nikhil
+9887	Smoke and mirrors, say	DECEIT	6	3	2013	xwords/May2913.puz	2	D _ C _ _ _	DECEIT	true	2.864167	nikhil
+4713	Mooring line	HAWSER	6	6	2005	xwords/Aug2005.puz	4	_ A W S _ R	LAWSER	false	6.455471	nikhil
+8322	Este Lauder fragrance for men	ARAMIS	6	6	2013	xwords/May1113.puz	3	A R _ M _ _	ARAMIS	true	6.079783	nikhil
+7369	Can't abide	LOATHE	6	3	2005	xwords/Aug3105.puz	3	L O _ T _ _	LOSTIT	false	17.63127	nikhil
+100	yadda, yadda, yadda	ETCETC	6	1	2005	xwords/Aug0105.puz	4	_ T C E T _	ETCETC	true	5.559856	nikhil
+4256	Short	ABRUPT	6	2	2009	xwords/Aug1809.puz	5	A B R U P _	ABRUPT	true	2.352062	nikhil
+6218	"Twelfth Night" duke	ORSINO	6	3	2009	xwords/Aug2609.puz	5	O R S I N _	ORSINO	true	2.407491	nikhil
+553	Time piece?	MINUTE	6	5	2001	xwords/Aug0301.puz	3	_ I N _ _ E	MINUTE	true	5.247766	nikhil
+3175	Noggin	NOODLE	6	0	2005	xwords/Aug1405.puz	1	_ _ _ D _ _	HEADER	false	9.327717	nikhil
+2252	Actress Tomei	MARISA	6	1	2009	xwords/Aug1009.puz	1	_ A _ _ _ _	MARISA	true	3.151488	nikhil
+689	Any of the Fab Four	BEATLE	6	1	2009	xwords/Aug0309.puz	4	B E A _ L _	BEATLE	true	2.359571	nikhil
+5529	Colors over	REDYES	6	5	2001	xwords/Aug2401.puz	5	R E D Y _ S	REDYES	true	3.943698	nikhil
