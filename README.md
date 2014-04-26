@@ -6,6 +6,7 @@ goal
 explore optimal crossword strategy, assuming solving clues is a function of:
 - word length 
 - word completed
+
 and returns correct answer after finite time (dependent variable) or nothing
 
 steps
