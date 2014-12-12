@@ -73,6 +73,7 @@ Note small sample size for later days. Overall, approximately correct times. Thi
 
 Aggressive play, however, usually requires fewer total word guesses. This makes sense - with each successful guess, more of the crossword is filled. The effect reverses for larger and more difficult boards, presumably because the probability of a successful guess decreases to the point where it ends up costing more turns and time. Even for smaller and easier grids, conservative play is still faster when adding a reasonable non-zero switching time between word guesses. 
 
+
 ![Performance Turns Chart](https://github.com/nsrivast/crossword/blob/master/figures/perf_turns.png)
 
 **Q2**. In a grid, is it better to go for the shorter or longer words first?
