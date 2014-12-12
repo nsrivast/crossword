@@ -5,12 +5,12 @@
 
 # USAGE:
 #
-#   m1 = Model.new("nikhil", "all_puzzles.txt")
-#   m1.play_random(20, [6], "nikhil_results.txt")
+#   m1 = Model.new("nikhil", "all_puzzles.txt"); nil
+#   m1.play_random(20, [6])
 #
-#   m2 = Model.new("james", "all_puzzles.txt")
-#   m2.play_existing("nikhil_results.txt", "james_results.txt")
-#   m2.play_random(10, [4,5,6], "james_results.txt")
+#   m2 = Model.new("james", "all_puzzles.txt"); nil
+#   m2.play_existing("nikhil_results.txt")
+#   m2.play_random(10, [4,5,6])
 #
 
 require 'acrosslite'
@@ -78,7 +78,7 @@ class Model
 
   # methods to play random or existing games
   
-  def play_random(num_turns, word_lengths, save_path, filled=true)
+  def play_random(num_turns, word_lengths, filled=true)
     puts "Starting random play (" + num_turns.to_s + " turns, word lengths = " + 
       word_lengths.join(",").to_s + (filled ? ", partially filled" : "") + "). Press any key to start."
     gets
@@ -91,16 +91,16 @@ class Model
       break if resp == "x"
       results = results[0..-2] if resp == "s"
     end
-    save_results(results, save_path)
+    save_results(results, "results/" + @player_name + Time.now.strftime("%Y%m%d_%H%M%S.txt"))
     return
   end
   
-  def play_existing(load_path, save_path)
+  def play_existing(load_path)
     puts "Starting existing play from " + load_path + ". Press any key to start."
     gets
     old_results = load_results(load_path)
     results = old_results.collect{ |clue| run_clue(clue) }
-    save_results(results, save_path)
+    save_results(results, "results/" + @player_name + Time.now.strftime("%Y%m%d_%H%M%S.txt"))
     return
   end
     

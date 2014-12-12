@@ -1,0 +1,50 @@
+9588	James who died three years before winning a Pulitzer	AGEE	4	0	2013	xwords/May2613.puz	1	A _ _ _	AGEE	true	1.519631	nikhil
+3048	Earthen pot	OLLA	4	2	2001	xwords/Aug1401.puz	2	_ _ L A	AGLE	false	3.470937	nikhil
+1420	Suspicion	HUNCH	5	0	2005	xwords/Aug0705.puz	1	_ _ _ C _	SURCH	false	5.807141	nikhil
+4996	"Mighty stream so deep and wide," in song	VOLGA	5	0	2005	xwords/Aug2105.puz	1	V _ _ _ _	VI	false	9.598478	nikhil
+4125	Opening	INTRO	5	6	2001	xwords/Aug1801.puz	3	_ _ T R O	INTRO	true	1.822833	nikhil
+8252	Come to	EQUAL	5	5	2013	xwords/May1013.puz	4	_ Q U A L	EQUAL	true	1.679635	nikhil
+8627	Secret writings	CODES	5	2	2013	xwords/May1413.puz	4	_ O D E S	CODES	true	1.895483	nikhil
+4649	___ Scotia	NOVA	4	1	2001	xwords/Aug2001.puz	3	_ O V A	NOVA	true	1.071961	nikhil
+4207	Fleece	SOAK	4	4	2005	xwords/Aug1805.puz	1	_ O _ _	ROBS	false	3.791473	nikhil
+3842	Like some ports	AGED	4	5	2001	xwords/Aug1701.puz	2	_ _ E D	LEED	false	8.806769	nikhil
+8097	"Hope & Faith" actress Kelly	RIPA	4	3	2013	xwords/May0813.puz	2	_ I _ A	RIPA	true	2.072155	nikhil
+6981	Otto follows it	SETTE	5	6	2009	xwords/Aug2909.puz	4	S _ T T E	SOTTE	false	3.62364	nikhil
+5934	Elbow	POKE	4	2	2009	xwords/Aug2509.puz	1	_ O _ _	POKE	true	1.655604	nikhil
+4987	Impertinent one	SNIP	4	0	2005	xwords/Aug2105.puz	1	_ N _ _	INCH	false	4.655432	nikhil
+5332	Steam items	IRONS	5	2	2005	xwords/Aug2305.puz	3	I R _ N _	IRONS	true	2.607397	nikhil
+1653	Earl's inferior: Abbr.	VISC	4	3	2001	xwords/Aug0801.puz	3	V I _ C	VILC	false	6.326966	nikhil
+1906	Violinist Mischa	ELMAN	5	2	2005	xwords/Aug0905.puz	3	E L _ A _	ELLAN	false	2.679573	nikhil
+447	It's open for dinner	MOUTH	5	0	2009	xwords/Aug0209.puz	1	M _ _ _ _	M	false	6.126833	nikhil
+6259	Singer Campbell	GLEN	4	1	2001	xwords/Aug2701.puz	3	G L _ N	GLEN	true	1.463554	nikhil
+3363	Skiing mecca	ASPEN	5	3	2001	xwords/Aug1501.puz	2	_ S _ _ N	ASPEN	true	1.543465	nikhil
+4615	Scruff	NAPE	4	1	2001	xwords/Aug2001.puz	3	N A P _	NAPE	true	1.055618	nikhil
+760	Place for a pin	LAPEL	5	6	2001	xwords/Aug0401.puz	4	L _ P E L	LAPEL	true	1.383439	nikhil
+9642	"Me and Bobby ___" (posthumous Janis Joplin #1)	MCGEE	5	0	2013	xwords/May2613.puz	2	_ C _ E _	MCGEE	true	2.855536	nikhil
+9585	General ___ chicken	TSOS	4	0	2013	xwords/May2613.puz	2	T S _ _	TSOS	true	1.671987	nikhil
+8320	First name in Chicago politics	RAHM	4	6	2013	xwords/May1113.puz	3	_ A H M	RAHM	true	1.551783	nikhil
+402	Furies	IRES	4	0	2009	xwords/Aug0209.puz	2	I _ E _	IRES	true	1.343709	nikhil
+1124	Burning desire?	ARSON	5	1	2001	xwords/Aug0601.puz	4	A R _ O N	ARSON	true	3.36729	nikhil
+7549	Boat with a flat bottom	SCOW	4	3	2013	xwords/May0113.puz	1	_ _ O _	BOOT	false	4.783506	nikhil
+3708	Come across as	SEEM	4	0	2009	xwords/Aug1609.puz	2	_ E E _	SEEM	true	1.487306	nikhil
+1584	"Say ___" (1940 Glenn Miller hit)	SISI	4	5	2009	xwords/Aug0709.puz	3	S _ S I	SOSI	false	5.047347	nikhil
+105	Front page fill	NEWS	4	1	2005	xwords/Aug0105.puz	3	N E W _	NEWS	true	2.03161	nikhil
+8997	Kind of bean	FAVA	4	0	2013	xwords/May1913.puz	1	F _ _ _	FARO	false	1.367642	nikhil
+4372	"The Time Machine" people	ELOI	4	0	2001	xwords/Aug1901.puz	3	_ L O I	ELOI	true	1.567632	nikhil
+4490	Bind tightly	TRUSS	5	5	2005	xwords/Aug1905.puz	2	_ R U _ _	CRUNP	false	6.454949	nikhil
+3253	Like some gases	RARE	4	5	2009	xwords/Aug1409.puz	1	_ A _ _	FAIL	false	4.327403	nikhil
+998	It has many decision points	MAZE	4	5	2005	xwords/Aug0505.puz	1	_ A _ _	GAME	false	3.271581	nikhil
+9365	___ of Warwick (War of the Roses figure)	EARL	4	4	2013	xwords/May2313.puz	2	_ A _ L	EARL	true	1.615877	nikhil
+6495	Athlete	JOCK	4	2	2001	xwords/Aug2801.puz	3	J O C _	JOCK	true	1.159897	nikhil
+4248	Guadalajara guy	SENOR	5	2	2009	xwords/Aug1809.puz	1	_ _ _ O _	HOM	false	10.190291	nikhil
+9982	Some campaigns win them	CLIOS	5	4	2013	xwords/May3013.puz	3	_ L _ O S	ALTOS	false	10.110136	nikhil
+9321	Catchall category	OTHER	5	3	2013	xwords/May2213.puz	1	_ _ H _ _	OTHER	true	3.05544	nikhil
+72	Penny-pinching	MEAN	4	3	2001	xwords/Aug0101.puz	3	M _ A N	MEAN	true	1.735685	nikhil
+7580	Debussy's "___ de Lune"	CLAIR	5	3	2013	xwords/May0113.puz	3	_ L A I _	CLAIR	true	3.614945	nikhil
+4639	Texas shrine, with "the"	ALAMO	5	1	2001	xwords/Aug2001.puz	2	_ _ A _ O	ALAMO	true	5.903081	nikhil
+3031	Foreign thoughts	IDEES	5	4	2009	xwords/Aug1309.puz	2	I _ _ _ S	IDEES	true	6.766891	nikhil
+8877	Grp. concerned with violence levels	MPAA	4	5	2013	xwords/May1713.puz	1	M _ _ _	MOMA	false	4.646885	nikhil
+7764	Impressionism?	APERY	5	6	2013	xwords/May0413.puz	2	_ P _ _ Y	APSOY	false	5.870973	nikhil
+4555	Uppity type	SNOOT	5	3	2009	xwords/Aug1909.puz	3	S N O _ _	SNOOT	true	1.559389	nikhil
+5930	Commuter's option	RAIL	4	2	2009	xwords/Aug2509.puz	2	R A _ _	RAIL	true	1.903676	nikhil
+1914	___ Hawkins Day	SADIE	5	2	2005	xwords/Aug0905.puz	4	S A _ I E	SADIE	true	1.575591	nikhil

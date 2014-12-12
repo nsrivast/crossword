@@ -1,0 +1,16 @@
+9196	Marie Antoinette, par exemple	REINE	5	2	2013	xwords/May2113.puz	3	_ E I N _	SEINT	false	4.518814	nikhil
+808	Nielsen respondent	TVVIEWER	8	4	2005	xwords/Aug0405.puz	7	T V V I E _ E R	TVVIEWER	true	3.215591	nikhil
+7672	___-car	RENTA	5	5	2013	xwords/May0313.puz	2	R E _ _ _	REPOT	false	22.590933	nikhil
+9258	"Benevolent" order	ELKS	4	3	2013	xwords/May2213.puz	2	E _ _ S	ELKS	true	2.67192	nikhil
+1730	Shakespearean verse	SONNET	6	1	2005	xwords/Aug0805.puz	1	_ _ _ _ _ T	SONNET	true	2.264091	nikhil
+2053	Seasoned rice dishes	PILAFS	6	0	2009	xwords/Aug0909.puz	4	P _ L A _ S	PULAOS	false	3.152047	nikhil
+984	Real low life?	AMEBA	5	5	2005	xwords/Aug0505.puz	4	_ M E B A	AMEBA	true	2.551958	nikhil
+7466	Whittle down	PARE	4	1	2009	xwords/Aug3109.puz	2	P _ _ E	PARE	true	2.399916	nikhil
+2472	Tartan wearer	SCOTSMAN	8	2	2009	xwords/Aug1109.puz	3	_ _ O _ S M _ _	SCOTSMAN	true	5.775561	nikhil
+5522	Low wall	PARAPET	7	5	2001	xwords/Aug2401.puz	6	P A R A _ E T	PARAPET	true	2.568007	nikhil
+4316	Spanish subjects	TEMAS	5	0	2001	xwords/Aug1901.puz	4	T _ M A S	TEMAS	true	3.511675	nikhil
+5423	Mantel pieces	URNS	4	0	2009	xwords/Aug2309.puz	3	U R N _	URNS	true	1.5763	nikhil
+8888	Favor doer's comment	YOUOWEME	8	5	2013	xwords/May1713.puz	7	Y O U O W _ M E	YOUOWEME	true	3.919726	nikhil
+3866	Up on, with "in"	VERSED	6	5	2001	xwords/Aug1701.puz	3	_ _ R S E _	VERSED	true	3.815628	nikhil
+1525	"Timon of Athens," e.g.	TRAGEDY	7	0	2005	xwords/Aug0705.puz	4	_ _ A G E _ Y	TRAGEDY	true	11.791246	nikhil
+7284	Subject of many operas	LOSTLOVE	8	5	2001	xwords/Aug3101.puz	1	_ _ _ _ L _ _ _	SFJ	false	5.119973	nikhil

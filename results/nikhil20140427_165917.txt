@@ -1,0 +1,97 @@
+1389	___ aside	ASAN	4	0	2005	xwords/Aug0705.puz	3	A S A _	ASAN	true	3.055879	nikhil
+7289	Emblem of Turkey	CRESCENT	8	5	2001	xwords/Aug3101.puz	7	C R E S C _ N T	CRESCENT	true	3.575875	nikhil
+2804	St. Stephen, notably	MARTYR	6	3	2009	xwords/Aug1209.puz	3	M _ R T _ _	MARTYR	true	7.079589	nikhil
+3868	Rocky debris	SCREE	5	5	2001	xwords/Aug1701.puz	4	S C R E _	SCREE	true	2.52806	nikhil
+3309	Restaurant staffers	STEWARDS	8	5	2009	xwords/Aug1409.puz	1	_ _ _ _ _ _ _ S	WAITERS	false	4.599979	nikhil
+4532	Res ___ loquitur	IPSA	4	3	2009	xwords/Aug1909.puz	1	_ _ _ A	IPSA	true	2.264114	nikhil
+5720	Multinational currency	EURO	4	1	2009	xwords/Aug2409.puz	1	_ _ R _	EURO	true	2.031984	nikhil
+4788	Setting for an Agatha Christie novel	NILE	4	4	2009	xwords/Aug2009.puz	2	N _ _ E	NAVE	false	11.823534	nikhil
+7445	Art ___ (1920s-'30s style)	DECO	4	1	2009	xwords/Aug3109.puz	3	D E C _	DECO	true	2.079952	nikhil
+828	Line of fashion?	INSEAM	6	4	2005	xwords/Aug0405.puz	2	_ _ S _ _ M	INSEAM	true	3.319526	nikhil
+3151	Care, slangily	GIVEARIP	8	0	2005	xwords/Aug1405.puz	6	_ _ V E A R I P	GIVEARIP	true	6.663779	nikhil
+6747	Book of Mormon book	ENOS	4	5	2009	xwords/Aug2809.puz	1	_ _ O _	WOOD	false	19.783259	nikhil
+8278	Part of a French play	ACTE	4	5	2013	xwords/May1013.puz	1	_ _ _ E	ACTE	true	2.911571	nikhil
+4680	Despicable sorts	LOWLIFES	8	6	2005	xwords/Aug2005.puz	6	L _ _ L I F E S	LOWLIFES	true	4.016013	nikhil
+4476	Whoop it up	ROISTER	7	5	2005	xwords/Aug1905.puz	3	_ O _ _ T _ R	MONIOTR	false	33.030557	nikhil
+5365	Celestial Seasonings alternative	SALADA	6	2	2005	xwords/Aug2305.puz	3	_ A L _ _ A	BALACA	false	24.095362	nikhil
+6101	Alarm function	AROUSAL	7	5	2005	xwords/Aug2605.puz	4	A R _ U _ A _	AROUSAL	true	11.647411	nikhil
+8381	Place	LOCATION	8	6	2013	xwords/May1113.puz	4	L _ _ _ T I O _	LOCATION	true	3.488096	nikhil
+7988	Sicilian secret society	MAFIA	5	1	2013	xwords/May0613.puz	2	_ A F _ _	MAFIA	true	2.72786	nikhil
+7625	Weak part of a hull	SEAM	4	4	2013	xwords/May0213.puz	2	S _ _ M	STEM	false	12.223672	nikhil
+5727	Plaza displays	PARADES	7	1	2009	xwords/Aug2409.puz	5	P A R A _ _ S	PARADES	true	4.832043	nikhil
+486	Fended (off)	WARDED	6	0	2009	xwords/Aug0209.puz	2	_ A R _ _ _	WARDED	true	4.015774	nikhil
+6146	Ump's cry	YEROUT	6	5	2005	xwords/Aug2605.puz	1	_ _ _ _ U _	NOTOUT	false	8.319458	nikhil
+2198	Property transferrer	DEEDER	6	3	2005	xwords/Aug1005.puz	5	D E _ D E R	DEEDER	true	4.023925	nikhil
+6512	Coffee break time, maybe	TENAM	5	2	2001	xwords/Aug2801.puz	4	T E N A _	TENAM	true	2.879892	nikhil
+396	Writer O'Flaherty	LIAM	4	0	2009	xwords/Aug0209.puz	2	L _ A _	LEAR	false	7.567503	nikhil
+3735	Congressional terms, e.g.	BIENNIA	7	0	2009	xwords/Aug1609.puz	1	_ _ E _ _ _ _	ALECS	false	43.310032	nikhil
+7281	Sweat source	PORE	4	5	2001	xwords/Aug3101.puz	2	P O _ _	PORE	true	2.279688	nikhil
+1135	Christmastime	YULE	4	1	2001	xwords/Aug0601.puz	2	_ U _ E	YULE	true	2.935608	nikhil
+8279	Cher's role in "Burlesque"	TESS	4	5	2013	xwords/May1013.puz	2	_ E _ S	J	false	3.479868	nikhil
+7642	Old-fashioned broadcasters	CRIERS	6	4	2013	xwords/May0213.puz	4	C _ I E _ S	CRIERS	true	6.999722	nikhil
+3336	First name in late-night TV	CONAN	5	3	2001	xwords/Aug1501.puz	1	C _ _ _ _	CONAN	true	3.671891	nikhil
+6976	What an antsy person might watch	CLOCK	5	6	2009	xwords/Aug2909.puz	3	_ _ O C K	CLOCK	true	9.655823	nikhil
+4246	Thick carpet	SHAG	4	2	2009	xwords/Aug1809.puz	2	_ H A _	SHAG	true	2.631732	nikhil
+6946	"On the Malice of Herodotus" author	PLUTARCH	8	6	2009	xwords/Aug2909.puz	3	_ _ U _ _ _ C H	POULIACH	false	59.933603	nikhil
+5598	Commingle	IMMIX	5	3	2005	xwords/Aug2405.puz	1	_ _ _ _ X	INMIX	false	12.287271	nikhil
+2899	West Coast wellness retreat	ESALEN	6	6	2005	xwords/Aug1305.puz	4	_ S A L E _	ASALES	false	13.599326	nikhil
+9266	Cell division	MITOSIS	7	3	2013	xwords/May2213.puz	6	M I T O S I _	MITOSIS	true	2.608015	nikhil
+1676	Motley, as an army	RAGTAG	6	1	2005	xwords/Aug0805.puz	3	R _ G T _ _	RAGTAG	true	2.679678	nikhil
+1772	Some high-tech images	JPEGS	5	6	2009	xwords/Aug0809.puz	3	J P E _ _	JPEGS	true	3.575651	nikhil
+7101	Congregation leader	RABBI	5	2	2005	xwords/Aug3005.puz	1	_ _ _ _ I	RABBI	true	4.336106	nikhil
+5154	Cause to be stuck	BAFFLE	6	6	2009	xwords/Aug2209.puz	1	B _ _ _ _ _	BURDEN	false	16.303076	nikhil
+8865	Kin of clubs	BLTS	4	5	2013	xwords/May1713.puz	1	_ L _ _	OLBS	false	27.063227	nikhil
+3261	Like yeshiva studies	TALMUDIC	8	5	2009	xwords/Aug1409.puz	5	T _ _ M U D _ C	TALMUDIC	true	2.455677	nikhil
+3164	French illustrator Gustave	DORE	4	0	2005	xwords/Aug1405.puz	1	_ _ R _	LARE	false	4.751772	nikhil
+1876	Athelstane's romantic rival	IVANHOE	7	4	2001	xwords/Aug0901.puz	5	I V _ _ H O E	IVANHOE	true	3.336127	nikhil
+8382	Ostrich, e.g.	RATITE	6	6	2013	xwords/May1113.puz	4	R A T _ _ E	RATTLE	false	32.558493	nikhil
+6950	Summon up	ELICIT	6	6	2009	xwords/Aug2909.puz	5	_ L I C I T	ELICIT	true	2.543568	nikhil
+6547	Au ___	GRATIN	6	0	2005	xwords/Aug2805.puz	1	_ _ _ _ I _	REVOIR	false	2.447781	nikhil
+8886	Allowing no equivocation	EITHEROR	8	5	2013	xwords/May1713.puz	6	E I T H E _ _ R	EITHEROR	true	4.135831	nikhil
+990	Sen. Stevens and others	TEDS	4	5	2005	xwords/Aug0505.puz	1	_ E _ _	DEMS	false	4.487726	nikhil
+853	Setting for betting	RENO	4	4	2005	xwords/Aug0405.puz	2	_ E N _	KENO	false	4.720006	nikhil
+7816	Neighbor of a Belarussian	LATVIAN	7	0	2013	xwords/May0513.puz	3	L A _ _ _ A _	LATVIAN	true	4.08745	nikhil
+3255	Papal name last used in 1724	INNOCENT	8	5	2009	xwords/Aug1409.puz	2	I N _ _ _ _ _ _	INOTIOUS	false	6.615727	nikhil
+2294	Fishnet stocking material	MESH	4	1	2009	xwords/Aug1009.puz	3	M E _ H	MESH	true	1.424238	nikhil
+6688	Charles who founded an investment firm	MERRILL	7	0	2005	xwords/Aug2805.puz	6	M E R R I L _	MERRILL	true	2.151881	nikhil
+6921	One with a dish towel	DRIER	5	1	2005	xwords/Aug2905.puz	3	D R I _ _	DRIER	true	2.295881	nikhil
+404	Steals the show from, say	OUTACTS	7	0	2009	xwords/Aug0209.puz	1	_ _ _ _ C _ _	OUTACTS	true	4.680043	nikhil
+8118	Like a blockbuster's cast, often	ALLSTAR	7	3	2013	xwords/May0813.puz	1	_ L _ _ _ _ _	ALISTERS	false	8.319722	nikhil
+2891	Outlasted, with "out"	RODE	4	1	2001	xwords/Aug1301.puz	2	_ _ D E	RODE	true	25.758775	nikhil
+6944	Creator of the stuff of legends?	MAPMAKER	8	6	2009	xwords/Aug2909.puz	6	M A P _ A K E _	MAPMAKER	true	3.264041	nikhil
+5884	Takeoff or touchdown site	TARMAC	6	2	2009	xwords/Aug2509.puz	1	_ _ _ _ _ C	TARMAC	true	4.135558	nikhil
+129	Raises canines?	TEETHES	7	1	2005	xwords/Aug0105.puz	4	_ _ E T _ E S	TEETHES	true	7.239642	nikhil
+845	Major artery	CAROTID	7	4	2005	xwords/Aug0405.puz	1	_ A _ _ _ _ _	CAROTID	true	32.43856	nikhil
+3837	It may turn up some dirt	TROWEL	6	5	2001	xwords/Aug1701.puz	3	_ R O W _ _	TROWEL	true	4.167798	nikhil
+7329	One with star potential?	GENERAL	7	5	2001	xwords/Aug3101.puz	5	_ E N E R _ L	GENERAL	true	2.703779	nikhil
+6768	Lethal compound	SARIN	5	5	2009	xwords/Aug2809.puz	3	_ A _ I N	SARIN	true	3.231649	nikhil
+5798	Como and Columbo	CROONERS	8	6	2001	xwords/Aug2501.puz	1	_ R _ _ _ _ _ _	TRIESTE	false	11.903638	nikhil
+7122	Protozoan	AMOEBA	6	2	2005	xwords/Aug3005.puz	5	A M O E _ A	AMOEBA	true	1.823859	nikhil
+73	Plantain lily	HOSTA	5	3	2001	xwords/Aug0101.puz	2	_ _ _ T A	BIOTA	false	8.311462	nikhil
+5832	Lexicographers' researches	USAGES	6	4	2005	xwords/Aug2505.puz	1	U _ _ _ _ _	UNROLLS	false	21.015306	nikhil
+2676	Amusement park features	ARCADES	7	0	2001	xwords/Aug1201.puz	3	A R _ A _ _ _	ARCADES	true	2.727844	nikhil
+3331	Reason for an "R"	VIOLENCE	8	3	2001	xwords/Aug1501.puz	3	_ _ _ L _ N _ E	REPLUNGE	false	27.926911	nikhil
+5090	Morsel	TIDBIT	6	1	2005	xwords/Aug2205.puz	3	_ _ D B I _	TIDBIT	true	1.983856	nikhil
+2409	"Time to get started"	LETSROLL	8	4	2005	xwords/Aug1105.puz	4	_ _ T _ R O _ L	LETSROLL	true	5.047861	nikhil
+5412	Jazz genre	BEBOP	5	0	2009	xwords/Aug2309.puz	2	B E _ _ _	BEBOP	true	3.175818	nikhil
+6945	Hoi polloi	POPULACE	8	6	2009	xwords/Aug2909.puz	2	_ O P _ _ _ _ _	TOPSTAR	false	37.966548	nikhil
+6322	Signals to start	CUESIN	6	6	2005	xwords/Aug2705.puz	4	_ U E _ I N	CUESIN	true	9.335573	nikhil
+2048	Summery	ESTIVAL	7	0	2009	xwords/Aug0909.puz	1	_ _ _ _ _ A _	LYRICAL	false	14.207069	nikhil
+9309	Paul of "Mad About You"	REISER	6	3	2013	xwords/May2213.puz	1	_ _ _ _ E _	ESTES	false	3.76798	nikhil
+7727	Actress Ryder	WINONA	6	5	2013	xwords/May0313.puz	4	_ _ N O N A	WINONA	true	1.936081	nikhil
+9843	What one might do after a firing	RELOAD	6	3	2013	xwords/May2913.puz	1	_ _ _ _ A _	REGEAR	false	28.926964	nikhil
+1906	Violinist Mischa	ELMAN	5	2	2005	xwords/Aug0905.puz	3	_ L _ A N	ILIAN	false	8.327486	nikhil
+1317	Rob Roy need	SCOTCH	6	2	2001	xwords/Aug0701.puz	4	S C _ T C _	SCOTCH	true	6.127677	nikhil
+2965	Perturb	AGITATE	7	4	2009	xwords/Aug1309.puz	1	_ _ _ _ A _ _	RETEAPS	false	42.614715	nikhil
+3739	Child's wheels	SCOOTER	7	0	2009	xwords/Aug1609.puz	5	S C _ O T E _	SCOOTER	true	2.335552	nikhil
+2704	Seatback items	HYMNALS	7	5	2005	xwords/Aug1205.puz	4	_ Y M _ A L _	CYMBALS	false	24.79077	nikhil
+4980	Car that won the 1939 and 1940 Indianapolis 500	MASERATI	8	0	2005	xwords/Aug2105.puz	6	M A S E _ A _ I	MASERATI	true	3.992165	nikhil
+6631	"Gladiator" setting	ARENA	5	0	2005	xwords/Aug2805.puz	3	A R _ N _	ARENA	true	1.447902	nikhil
+2886	"Render ___ Caesar ..."	UNTO	4	1	2001	xwords/Aug1301.puz	3	U N _ O	UNTO	true	1.551853	nikhil
+2170	Goddess of the hunt	DIANA	5	3	2005	xwords/Aug1005.puz	4	_ I A N A	DIANA	true	2.072352	nikhil
+5967	Peace maker	ENTENTE	7	0	2001	xwords/Aug2601.puz	4	E _ T _ N _ E	ESTENTE	false	6.751856	nikhil
+1037	Disposable cleaning aid	WIPE	4	3	2009	xwords/Aug0509.puz	2	_ I _ E	VINE	false	15.799467	nikhil
+2141	Caulks	SEALANTS	8	5	2001	xwords/Aug1001.puz	7	S _ A L A N T S	SEALANTS	true	2.895774	nikhil
+6024	Finished, as doughnuts	FROSTED	7	0	2001	xwords/Aug2601.puz	3	F _ _ _ T E _	FROSTED	true	11.03131	nikhil
+9130	Orbital high point	APOGEE	6	1	2013	xwords/May2013.puz	4	A _ _ G E E	APOGEE	true	1.815907	nikhil
+8225	'40s blowups	NTESTS	6	4	2013	xwords/May0913.puz	5	N T E S _ S	NTETS	false	5.576029	nikhil

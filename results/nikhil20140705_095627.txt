@@ -1,0 +1,50 @@
+6100	Dump	EYESORE	7	5	2005	xwords/Aug2605.puz	4	_ Y _ _ O R E	EYESORE	true	2.99134	nikhil
+8862	"NYC 22" replaced it in 2012	CSIMIAMI	8	5	2013	xwords/May1713.puz	7	C S _ M I A M I	CSIMIAMI	true	2.695482	nikhil
+7058	Chutzpah	GALL	4	4	2001	xwords/Aug3001.puz	1	_ _ _ L	BALL	false	3.903715	nikhil
+9650	NBC newsman Holt	LESTER	6	0	2013	xwords/May2613.puz	2	_ E _ _ _ R	X	false	2.687593	nikhil
+6414	Faux pas	SLIP	4	4	2009	xwords/Aug2709.puz	3	S _ I P	SLIP	true	1.471795	nikhil
+4970	The City of Churches	ADELAIDE	8	0	2005	xwords/Aug2105.puz	2	A _ E _ _ _ _ _	X	false	10.309873	nikhil
+6087	Goddess of sorcery	HECATE	6	0	2001	xwords/Aug2601.puz	1	_ _ _ A _ _	X	false	3.62329	nikhil
+7484	Agents' customers	CLIENTS	7	1	2009	xwords/Aug3109.puz	2	_ _ _ E _ T _	ATHLETS	false	6.510944	nikhil
+1477	Surfer stops	WEBPAGES	8	0	2005	xwords/Aug0705.puz	7	W E B P _ G E S	WEBPAGES	true	2.111175	nikhil
+4412	Record protector	SLEEVE	6	0	2001	xwords/Aug1901.puz	1	_ _ E _ _ _	SLEEVE	true	3.431171	nikhil
+1075	Prefix with normal	PARA	4	3	2009	xwords/Aug0509.puz	3	P A _ A	PARA	true	1.358751	nikhil
+7266	Box lightly	SPAR	4	0	2009	xwords/Aug3009.puz	1	S _ _ _	SPAR	true	1.527785	nikhil
+9030	Take in a hurry	GRAB	4	0	2013	xwords/May1913.puz	1	_ R _ _	CRAM	false	8.670609	nikhil
+6371	Mapped sequences	GENOMES	7	6	2005	xwords/Aug2705.puz	3	_ E N _ _ E _	GENOMED	false	9.510361	nikhil
+8137	Boneheads	DODOS	5	3	2013	xwords/May0813.puz	4	D O _ O S	DODOS	true	1.616167	nikhil
+5789	Some antiterrorists	SNIPERS	7	6	2001	xwords/Aug2501.puz	2	_ _ I P _ _ _	ANIPODE	false	8.998465	nikhil
+2266	Private pupil	TUTEE	5	1	2009	xwords/Aug1009.puz	2	_ _ T E _	TUTEE	true	3.207701	nikhil
+8357	Like the Congressional Record	ARCHIVAL	8	6	2013	xwords/May1113.puz	5	A R C H I _ _ _	ARCHIVAL	true	4.21528	nikhil
+2137	Ins and outs of finance?	CASHFLOW	8	5	2001	xwords/Aug1001.puz	3	C _ _ _ _ _ O W	CRASHDOW	false	11.614129	nikhil
+2976	TV Guide info	SYNOPSIS	8	4	2009	xwords/Aug1309.puz	6	S _ N _ P S I S	SYNOPSIS	true	2.975429	nikhil
+6978	Cow	DAUNT	5	6	2009	xwords/Aug2909.puz	1	_ A _ _ _	PAYIN	false	11.790192	nikhil
+4131	Blown away by	AMAZEDAT	8	6	2001	xwords/Aug1801.puz	3	_ _ _ Z _ D A _	AMAZEDAT	true	2.975477	nikhil
+9999	Blend with bergamot	EARLGREY	8	5	2013	xwords/May3113.puz	4	E _ R L _ _ E _	EARLGREY	true	4.255278	nikhil
+4414	St.-___, capital of Runion	DENIS	5	0	2001	xwords/Aug1901.puz	4	_ E N I S	DENIS	true	1.567424	nikhil
+193	Like exiles	UPROOTED	8	6	2009	xwords/Aug0109.puz	1	_ P _ _ _ _ _ _	APARTED	false	4.542959	nikhil
+9896	Sonic the Hedgehog's company	SEGA	4	3	2013	xwords/May2913.puz	2	S _ _ A	SEGA	true	1.487447	nikhil
+4774	Not shaky	SOLID	5	4	2009	xwords/Aug2009.puz	1	_ _ _ _ D	SOLID	true	2.231599	nikhil
+4987	Impertinent one	SNIP	4	0	2005	xwords/Aug2105.puz	1	_ _ I _	SLIT	false	5.623223	nikhil
+6691	"That's an ___!"	ORDER	5	0	2005	xwords/Aug2805.puz	4	O _ D E R	ORDER	true	1.686625	nikhil
+7388	Parisian thinkers?	TETES	5	3	2005	xwords/Aug3105.puz	4	T E T E _	TETES	true	1.80761	nikhil
+2795	Stylize anew, as a car seat	RETRIM	6	3	2009	xwords/Aug1209.puz	4	R _ T _ I M	RETRIM	true	2.511704	nikhil
+4512	"Mercy!"	OHDEAR	6	3	2009	xwords/Aug1909.puz	4	_ H _ E A R	OHDEAR	true	5.271132	nikhil
+4586	Controlling interests?	REINS	5	1	2001	xwords/Aug2001.puz	1	_ _ _ _ S	RENTS	false	3.69567	nikhil
+7909	On the fence	NOTSURE	7	0	2013	xwords/May0513.puz	1	_ _ T _ _ _ _	ONTENCE	false	9.238159	nikhil
+7597	Island off the Gabonese coast	SAOTOME	7	4	2013	xwords/May0213.puz	5	S A _ T O M _	SARTOMI	false	3.879266	nikhil
+9856	Tenor Ronan ___	TYNAN	5	3	2013	xwords/May2913.puz	3	_ Y _ A N	DYLAN	false	5.822925	nikhil
+7289	Emblem of Turkey	CRESCENT	8	5	2001	xwords/Aug3101.puz	4	_ R _ _ C E _ T	CRESCENT	true	12.717794	nikhil
+4279	Sharif of "Doctor Zhivago"	OMAR	4	2	2009	xwords/Aug1809.puz	3	O M A _	OMAR	true	1.208045	nikhil
+5841	Contact, say	LENS	4	4	2005	xwords/Aug2505.puz	1	_ _ N _	RING	false	6.542954	nikhil
+2449	Mini poodles and toy terriers	LAPDOGS	7	4	2005	xwords/Aug1105.puz	6	L A P D O G _	LAPDOGS	true	2.495513	nikhil
+7231	Mystery writers' awards	AGATHAS	7	0	2009	xwords/Aug3009.puz	6	A G _ T H A S	AGATHAS	true	2.519233	nikhil
+3110	Witherspoon of "Legally Blonde"	REESE	5	2	2001	xwords/Aug1401.puz	1	_ _ _ _ E	REESE	true	1.679796	nikhil
+3463	Landmark near the pyramids of Giza	SPHINX	6	1	2005	xwords/Aug1505.puz	2	_ _ _ I N _	SPHINX	true	6.015166	nikhil
+2298	Sheets, pillowcases, etc.	LINEN	5	1	2009	xwords/Aug1009.puz	1	L _ _ _ _	LINEN	true	3.903301	nikhil
+7360	Eruptions	FLAREUPS	8	3	2005	xwords/Aug3105.puz	2	F L _ _ _ _ _ _	FLONTES	false	7.838786	nikhil
+5392	Prizes	ESTEEMS	7	0	2009	xwords/Aug2309.puz	4	E _ T _ E _ S	ESTEEMS	true	2.798292	nikhil
+6482	Pennsylvania's ___ Mountains	POCONO	6	2	2001	xwords/Aug2801.puz	4	_ O C _ N O	POCONO	true	2.175609	nikhil
+5191	Deafening	ABLARE	6	6	2009	xwords/Aug2209.puz	5	A B _ A R E	ABLARE	true	8.590446	nikhil
+6456	Grumpy companion	SNEEZY	6	2	2001	xwords/Aug2801.puz	3	_ _ E E _ Y	SLEEPY	false	8.286065	nikhil
+1437	Marisa of "Alfie," 2004	TOMEI	5	0	2005	xwords/Aug0705.puz	4	T O M E _	TOMEI	true	1.591746	nikhil

@@ -1,0 +1,48 @@
+2736	___ metal (plating alloy)	TERNE	5	5	2005	xwords/Aug1205.puz	3	_ E R _ E	LERGE	false	6.246555	nikhil
+1924	Film repair	SPLICE	6	2	2005	xwords/Aug0905.puz	5	S P _ I C E	SPLICE	true	2.103592	nikhil
+6859	Soothsayer	ORACLE	6	1	2005	xwords/Aug2905.puz	5	O R A C _ E	ORACLE	true	1.703607	nikhil
+778	Rubylike gems	SPINELS	7	6	2001	xwords/Aug0401.puz	3	_ _ _ _ E L S	MARBELS	false	7.3906	nikhil
+10011	Causes of head-scratching	ENIGMAS	7	5	2013	xwords/May3113.puz	1	E _ _ _ _ _ _	ELACS	false	12.789966	nikhil
+9628	Baroque French dance	GAVOTTE	7	0	2013	xwords/May2613.puz	5	_ _ V O T T E	CAVOTTE	false	3.151411	nikhil
+1269	Informal bye	ADIOS	5	4	2009	xwords/Aug0609.puz	3	A _ _ O S	ADIOS	true	1.615442	nikhil
+6480	In alignment	TRUE	4	2	2001	xwords/Aug2801.puz	1	_ _ _ E	TRUE	true	2.879489	nikhil
+1123	Generous one	SHARER	6	1	2001	xwords/Aug0601.puz	4	_ H _ R E R	SHARER	true	4.359691	nikhil
+5754	One may exert pressure	PEER	4	6	2001	xwords/Aug2501.puz	3	_ E E R	PEER	true	1.847724	nikhil
+594	Funds	ENDOWS	6	3	2005	xwords/Aug0305.puz	2	_ N _ _ _ S	ENDOWS	true	3.127431	nikhil
+2009	Summers	ABACI	5	0	2009	xwords/Aug0909.puz	4	A _ A C I	ABACI	true	4.103265	nikhil
+3514	Like some leaves	UNPAID	6	6	2009	xwords/Aug1509.puz	1	_ N _ _ _ _	INFOLD	false	3.159457	nikhil
+4133	Breaking items?	LATENEWS	8	6	2001	xwords/Aug1801.puz	2	_ _ T E _ _ _ _	D	false	4.767146	nikhil
+2557	"The Mambo Kings" co-star	ASSANTE	7	0	2001	xwords/Aug1201.puz	5	_ S _ A N T E	ESSANTE	false	4.815485	nikhil
+5614	Moolah	DOREMI	6	3	2005	xwords/Aug2405.puz	5	D _ R E M I	DOREMI	true	2.727334	nikhil
+7944	All over again	ANEW	4	1	2013	xwords/May0613.puz	1	A _ _ _	ATOP	false	5.151063	nikhil
+3700	Sweet potato nutrient	CAROTENE	8	0	2009	xwords/Aug1609.puz	5	C A _ O _ E _ E	CAROTENE	true	7.646556	nikhil
+3609	F.B.I. figures	GMEN	4	4	2001	xwords/Aug1601.puz	3	G _ E N	GMEN	true	1.911477	nikhil
+4992	Trials	ORDEALS	7	0	2005	xwords/Aug2105.puz	2	_ _ _ _ _ L S	TESTS	false	9.342471	nikhil
+4823	Like a brand-new fountain pen	INKLESS	7	2	2001	xwords/Aug2101.puz	2	_ _ K _ _ _ S	INKLESS	true	8.566509	nikhil
+302	It might present you with a big bill	PELICAN	7	2	2005	xwords/Aug0205.puz	6	P E L _ C A N	PELICAN	true	3.99928	nikhil
+5192	Co-composer of the "Prophecy Theme" in "Dune"	BRIANENO	8	6	2009	xwords/Aug2209.puz	7	B R I A _ E N O	BRIANENO	true	2.663437	nikhil
+1249	"Vive ___!"	LEROI	5	4	2009	xwords/Aug0609.puz	3	L E R _ _	LERED	false	4.247069	nikhil
+5934	Elbow	POKE	4	2	2009	xwords/Aug2509.puz	3	_ O K E	POKE	true	1.895388	nikhil
+6311	Source for the tune of "It's Now or Never"	OSOLEMIO	8	6	2005	xwords/Aug2705.puz	2	_ S _ _ _ M _ _	ASMAN	false	6.519136	nikhil
+6573	Columnist Bombeck	ERMA	4	0	2005	xwords/Aug2805.puz	2	_ R _ A	X	false	8.494699	nikhil
+668	Overcoat sleeve	RAGLAN	6	1	2009	xwords/Aug0309.puz	1	_ _ _ _ A _	ARMPAD	false	6.478917	nikhil
+3354	Singing brother of 60's-90's pop	GIBB	4	3	2001	xwords/Aug1501.puz	1	_ I _ _	TITO	false	7.974601	nikhil
+3151	Care, slangily	GIVEARIP	8	0	2005	xwords/Aug1405.puz	3	_ _ _ _ A _ I P	GIVEARIP	true	3.423629	nikhil
+3835	Child often having special responsibilities	ELDEST	6	0	2009	xwords/Aug1609.puz	1	_ _ _ _ _ T	X	false	4.631285	nikhil
+1227	"Nothin'"	NADA	4	6	2005	xwords/Aug0605.puz	3	N A D _	NADA	true	1.239618	nikhil
+322	Beatniks	HIPSTERS	8	2	2005	xwords/Aug0205.puz	6	_ I P _ T E R S	HIPSTERS	true	2.543443	nikhil
+9940	Visage	ASPECT	6	4	2013	xwords/May3013.puz	4	A S P E _ _	ASPECT	true	5.063271	nikhil
+8326	Ellington band vocalist Anderson	IVIE	4	6	2013	xwords/May1113.puz	2	_ _ I E	ELIE	false	3.311586	nikhil
+8011	"Now I get it"	OHOK	4	1	2013	xwords/May0613.puz	1	_ _ _ K	AHOK	false	1.999614	nikhil
+5461	Been in bed	LAIN	4	0	2009	xwords/Aug2309.puz	2	L _ I _	LIED	false	3.607435	nikhil
+7703	Singer's tongue	YIDDISH	7	5	2013	xwords/May0313.puz	6	_ I D D I S H	YIDDISH	true	3.327478	nikhil
+5287	Pretentious	ARTSY	5	4	2001	xwords/Aug2301.puz	3	_ _ T S Y	ARTSY	true	2.431465	nikhil
+2896	Soccer position	SWEEPER	7	6	2005	xwords/Aug1305.puz	4	S _ _ E P _ R	SWEEPER	true	3.719267	nikhil
+2506	Beaming	AGRIN	5	2	2009	xwords/Aug1109.puz	2	A G _ _ _	AGRIN	true	2.16757	nikhil
+4183	Really enjoys	ISINTO	6	4	2005	xwords/Aug1805.puz	5	_ S I N T O	ISINTO	true	2.135556	nikhil
+8357	Like the Congressional Record	ARCHIVAL	8	6	2013	xwords/May1113.puz	7	A R C H I V A _	ARCHIVAL	true	2.439622	nikhil
+40	Outpouring	SPATE	5	3	2001	xwords/Aug0101.puz	3	S _ A _ E	SPATE	true	1.703749	nikhil
+410	Remove the suds	RINSE	5	0	2009	xwords/Aug0209.puz	3	R I N _ _	RINSE	true	2.303536	nikhil
+5104	In other words	THATIS	6	1	2005	xwords/Aug2205.puz	4	_ H A T _ S	THATIS	true	1.991434	nikhil
+6199	Hurts	SMARTS	6	3	2009	xwords/Aug2609.puz	4	S M _ _ T S	SMARTS	true	1.783469	nikhil
+3075	NaCl	SALT	4	2	2001	xwords/Aug1401.puz	3	S A _ T	SALT	true	1.351916	nikhil

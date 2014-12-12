@@ -1,0 +1,88 @@
+6765	Leaves out	ELIDES	6	5	2009	xwords/Aug2809.puz	2	_ L I _ _ _	ELIDES	true	2.711581	nikhil
+1337	Israeli money	SHEKEL	6	2	2001	xwords/Aug0701.puz	3	_ H _ K E _	SHEKEL	true	2.000232	nikhil
+8283	1950s backup group with four top 10 hits	COMETS	6	5	2013	xwords/May1013.puz	5	C O M E _ S	COMETS	true	3.871962	nikhil
+4723	Ingratiate	ENDEAR	6	4	2009	xwords/Aug2009.puz	2	_ _ D _ A _	ENDEAR	true	3.639724	nikhil
+3500	Ruffians	TOUGHS	6	6	2009	xwords/Aug1509.puz	5	_ O U G H S	TOUGHS	true	1.967518	nikhil
+3876	Head cases?	CRANIA	6	5	2001	xwords/Aug1701.puz	4	C _ A N I _	CRANIA	true	8.719279	nikhil
+7742	What money may be placed in	ESCROW	6	6	2013	xwords/May0413.puz	5	E S C R O _	ESCROW	true	2.031865	nikhil
+551	Person of great interest?	USURER	6	5	2001	xwords/Aug0301.puz	4	_ _ U R E R	INURER	false	8.967332	nikhil
+1555	Dinah's avenger in the Bible	SIMEON	6	5	2009	xwords/Aug0709.puz	1	_ _ M _ _ _	D	false	8.511958	nikhil
+9887	Smoke and mirrors, say	DECEIT	6	3	2013	xwords/May2913.puz	2	D E _ _ _ _	DECEIT	true	2.591987	nikhil
+500	Kentucky Derby drinks	JULEPS	6	0	2009	xwords/Aug0209.puz	3	J U _ E _ _	JULEPS	true	7.295464	nikhil
+252	Most recent news	UPDATE	6	4	2001	xwords/Aug0201.puz	5	U P D A T _	UPDATE	true	1.408108	nikhil
+4292	Balloons	SWELLS	6	2	2009	xwords/Aug1809.puz	5	S W E L _ S	SWELLS	true	1.567776	nikhil
+9059	Yak	NATTER	6	0	2013	xwords/May1913.puz	4	N _ T T _ R	NATTER	true	3.575965	nikhil
+7962	Mama Cass	ELLIOT	6	1	2013	xwords/May0613.puz	5	E L L I _ T	ELLIOT	true	2.719934	nikhil
+68	Sign up	ENROLL	6	3	2001	xwords/Aug0101.puz	3	E N _ _ L _	ENROLL	true	1.999712	nikhil
+6853	Chinese temple	PAGODA	6	1	2005	xwords/Aug2905.puz	5	P A G O _ A	PAGODA	true	2.103954	nikhil
+7865	Sleep problem, to Brits	APNOEA	6	0	2013	xwords/May0513.puz	4	A _ N _ E A	APNAEA	false	4.679884	nikhil
+7793	Hole	CAVITY	6	6	2013	xwords/May0413.puz	4	C A _ _ T Y	CAVITY	true	3.04805	nikhil
+3262	Her 1965 Met debut was as Cio-Cio-San in "Madama Butterfly"	SCOTTO	6	5	2009	xwords/Aug1409.puz	4	_ C O T _ O	SCOTTO	true	3.49576	nikhil
+8447	Corner piece	CASTLE	6	0	2013	xwords/May1213.puz	1	_ _ S _ _ _	CASTLE	true	6.235857	nikhil
+6947	Old Silk Road destination	CATHAY	6	6	2009	xwords/Aug2909.puz	2	_ _ T _ _ Y	CATHAY	true	16.351392	nikhil
+3174	Mischievous	IMPISH	6	0	2005	xwords/Aug1405.puz	1	_ _ _ I _ _	IMPISH	true	2.359997	nikhil
+2822	Going to hell	DAMNED	6	1	2001	xwords/Aug1301.puz	2	_ A _ _ _ D	DAMNED	true	4.439684	nikhil
+9127	"Yes, captain!"	AYEAYE	6	1	2013	xwords/May2013.puz	2	_ _ _ A Y _	AYEAYE	true	2.239857	nikhil
+3907	Not optional	NEEDED	6	5	2001	xwords/Aug1701.puz	5	N E E _ E D	NEEDED	true	4.78358	nikhil
+6212	What to do at a crossroads	DECIDE	6	3	2009	xwords/Aug2609.puz	2	D E _ _ _ _	DECIDE	true	3.111975	nikhil
+160	Building blocks	ADOBES	6	6	2009	xwords/Aug0109.puz	1	_ _ _ _ _ S	PIECES	false	3.015867	nikhil
+7189	Isn't inert	REACTS	6	0	2009	xwords/Aug3009.puz	5	R _ A C T S	REACTS	true	2.231857	nikhil
+7456	Thin layer	LAMINA	6	1	2009	xwords/Aug3109.puz	3	L A _ _ _ A	LACUNA	false	3.407933	nikhil
+1010	Some mouths	DELTAS	6	5	2005	xwords/Aug0505.puz	2	_ _ _ _ A S	DS	false	19.263396	nikhil
+614	British knight's protector	ARMOUR	6	3	2005	xwords/Aug0305.puz	1	A _ _ _ _ _	ALEWIN	false	3.119851	nikhil
+9570	Jerseys and such	CATTLE	6	0	2013	xwords/May2613.puz	5	_ A T T L E	CATTLE	true	6.119655	nikhil
+7439	Tiny slice of pie	SLIVER	6	1	2009	xwords/Aug3109.puz	4	S L I V _ _	SLIVER	true	2.719716	nikhil
+784	Calculator job	ADDING	6	6	2001	xwords/Aug0401.puz	2	A _ D _ _ _	ADDING	true	1.983608	nikhil
+474	Empties	DRAINS	6	0	2009	xwords/Aug0209.puz	2	_ _ _ _ N S	X	false	14.751122	nikhil
+9920	Men of steel?	ROBOTS	6	4	2013	xwords/May3013.puz	4	R _ B _ T S	ROBOTS	true	1.752284	nikhil
+4681	Zoological groups	FAUNAE	6	6	2005	xwords/Aug2005.puz	2	_ _ U _ A _	PRUVAT	false	19.887218	nikhil
+9344	Catches wind of	LEARNS	6	4	2013	xwords/May2313.puz	1	_ E _ _ _ _	GETSOF	false	23.991064	nikhil
+2804	St. Stephen, notably	MARTYR	6	3	2009	xwords/Aug1209.puz	5	M _ R T Y R	MARTYR	true	2.808115	nikhil
+9077	Like "South Park" vis--vis "The Simpsons"	LEWDER	6	0	2013	xwords/May1913.puz	2	_ _ W _ E _	POWLER	false	25.854676	nikhil
+4642	Modern document senders	FAXERS	6	1	2001	xwords/Aug2001.puz	3	F A _ _ R _	FAXERS	true	7.119141	nikhil
+1066	Playboy or Playgirl-caliber model	HOTTIE	6	3	2009	xwords/Aug0509.puz	1	H _ _ _ _ _	HOTTIE	true	24.294899	nikhil
+2046	Like an ass	EQUINE	6	0	2009	xwords/Aug0909.puz	5	E Q U _ N E	EQUINE	true	2.295644	nikhil
+3704	Enter quickly	RUSHIN	6	0	2009	xwords/Aug1609.puz	1	_ _ S _ _ _	EASEIN	false	7.311818	nikhil
+1841	Enter a nonfeeding state	PUPATE	6	4	2001	xwords/Aug0901.puz	4	P U P A _ _	PUPATE	true	2.311576	nikhil
+5091	Fairy tale dwelling	CASTLE	6	1	2005	xwords/Aug2205.puz	1	_ _ S _ _ _	CASTLE	true	2.768131	nikhil
+2675	Kind of fuel	DIESEL	6	0	2001	xwords/Aug1201.puz	3	_ I E _ E _	DIESEL	true	1.543878	nikhil
+6878	Rag	TATTER	6	1	2005	xwords/Aug2905.puz	4	T _ T T E _	TATTER	true	7.055404	nikhil
+2160	Combat zones	ARENAS	6	5	2001	xwords/Aug1001.puz	4	A R E N _ _	ARENAS	true	2.295918	nikhil
+9500	What outer space is that cyberspace isn't?	PHRASE	6	6	2013	xwords/May2513.puz	5	P H R A _ E	PHRACE	false	8.983409	nikhil
+4491	Bites	SNACKS	6	5	2005	xwords/Aug1905.puz	1	_ _ _ C _ _	SPACKS	false	17.567235	nikhil
+8767	Funny Tracey	ULLMAN	6	4	2013	xwords/May1613.puz	4	U L _ M _ N	ULLMAN	true	2.359657	nikhil
+7992	Peruse again	REREAD	6	1	2013	xwords/May0613.puz	3	_ E R E _ _	REREAD	true	2.343879	nikhil
+8605	Wipes off	ERASES	6	2	2013	xwords/May1413.puz	3	_ R _ S _ S	FRASES	false	10.22358	nikhil
+1000	Mark of prestige	CACHET	6	5	2005	xwords/Aug0505.puz	2	_ A _ _ E _	HALDNE	false	9.575577	nikhil
+9608	Positive ends	ANODES	6	0	2013	xwords/May2613.puz	4	_ N _ D E S	ANODES	true	2.45558	nikhil
+6339	Italian astronomer Giovanni Battista ___, after whom a comet is named	DONATI	6	6	2005	xwords/Aug2705.puz	4	D O N A _ _	DONARO	false	10.263478	nikhil
+192	Demonstrate banking skill	AVIATE	6	6	2009	xwords/Aug0109.puz	5	_ V I A T E	AVIATE	true	6.151513	nikhil
+1406	Wolf or shark	PREYER	6	0	2005	xwords/Aug0705.puz	1	_ _ _ _ _ R	PREYER	true	5.511643	nikhil
+6712	One with staying power?	CORSET	6	5	2009	xwords/Aug2809.puz	4	C _ _ S E T	CORSET	true	5.8073	nikhil
+4412	Record protector	SLEEVE	6	0	2001	xwords/Aug1901.puz	5	S _ E E V E	SLEEVE	true	1.759799	nikhil
+3231	Proofers' catches	ERRATA	6	0	2005	xwords/Aug1405.puz	5	E _ R A T A	ERRATA	true	2.335755	nikhil
+28	Like a mansard roof	SLOPED	6	3	2001	xwords/Aug0101.puz	2	_ _ _ P E _	RAMPED	false	9.727641	nikhil
+3026	Fang	CANINE	6	4	2009	xwords/Aug1309.puz	2	_ _ _ I _ E	CANINE	true	4.351828	nikhil
+2308	Pirate support, stereotypically	PEGLEG	6	1	2009	xwords/Aug1009.puz	3	P _ G _ _ G	PEGLEG	true	4.463808	nikhil
+9557	Become lenient	GOSOFT	6	0	2013	xwords/May2613.puz	2	_ _ _ O F _	LETOFF	false	11.263356	nikhil
+1264	Without a break	ONEACT	6	4	2009	xwords/Aug0609.puz	5	_ N E A C T	ONEACT	true	2.391952	nikhil
+9987	Big to-do, maybe?	AGENDA	6	5	2013	xwords/May3113.puz	2	A G _ _ _ _	AGROWL	false	18.399109	nikhil
+9988	Push to the limit	MAXOUT	6	5	2013	xwords/May3113.puz	3	_ A X _ _ T	MAXOUT	true	6.279605	nikhil
+5989	Not even	UNTRUE	6	0	2001	xwords/Aug2601.puz	5	U N T R U _	UNTRUE	true	3.279755	nikhil
+8768	Often-grated cheese	ASIAGO	6	4	2013	xwords/May1613.puz	4	A S I _ _ O	ASIAGO	true	1.904143	nikhil
+8217	Hosts prefer them	ALISTS	6	4	2013	xwords/May0913.puz	2	_ L _ _ _ S	BLACKS	false	15.599308	nikhil
+1978	Cry uncle	GIVEIN	6	0	2009	xwords/Aug0909.puz	1	_ _ _ _ _ N	DX	false	6.231884	nikhil
+650	Grand Prix site	LEMANS	6	3	2005	xwords/Aug0305.puz	3	L _ M _ _ S	LEMANS	true	3.775616	nikhil
+6214	Vehement speech	TIRADE	6	3	2009	xwords/Aug2609.puz	4	_ I R _ D E	TIRADE	true	3.848032	nikhil
+2772	"In ___, where love is king" (start of "That's Amore")	NAPOLI	6	3	2009	xwords/Aug1209.puz	2	_ _ _ _ L I	NAPOLI	true	6.232054	nikhil
+2675	Kind of fuel	DIESEL	6	0	2001	xwords/Aug1201.puz	3	_ I E _ E _	DIESEL	true	1.543878	nikhil
+13	Wanton destruction	MAYHEM	6	3	2001	xwords/Aug0101.puz	4	M A _ H _ M	MAYHEM	true	2.007869	nikhil
+9483	Violent sandstorm	HABOOB	6	6	2013	xwords/May2513.puz	3	_ A _ O _ B	MALORB	false	12.087489	nikhil
+3904	More than look up to	REVERE	6	5	2001	xwords/Aug1701.puz	3	_ E _ E R _	REVERE	true	3.855793	nikhil
+3902	Borneo creatures	ORANGS	6	5	2001	xwords/Aug1701.puz	4	_ R A N _ S	ORANGS	true	7.623514	nikhil
+614	British knight's protector	ARMOUR	6	3	2005	xwords/Aug0305.puz	1	A _ _ _ _ _	ALEWIN	false	3.119851	nikhil
+7296	Shays of Shays's Rebellion	DANIEL	6	5	2001	xwords/Aug3101.puz	2	D _ _ _ _ L	DARREL	false	6.687527	nikhil
+4729	You might get one before a party	INVITE	6	4	2009	xwords/Aug2009.puz	5	I N V I T _	INVITE	true	2.464274	nikhil
+3325	Bon vivant's gift	ESPRIT	6	3	2001	xwords/Aug1501.puz	5	E S P R I _	ESPRIT	true	2.231796	nikhil
+9663	Bursts (in)	BARGES	6	0	2013	xwords/May2613.puz	2	_ A _ G _ _	BARGES	true	2.792047	nikhil
+7298	With 16-Across, way leading to a highway	ACCESS	6	5	2001	xwords/Aug3101.puz	1	_ _ _ E _ _	SDFJ	false	7.615195	nikhil

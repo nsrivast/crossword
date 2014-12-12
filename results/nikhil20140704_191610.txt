@@ -1,0 +1,50 @@
+2048	Summery	ESTIVAL	7	0	2009	xwords/Aug0909.puz	6	_ S T I V A L	ESTIVAL	true	3.510965	nikhil
+226	Carnival treat	SNOCONE	7	4	2001	xwords/Aug0201.puz	5	S _ O C _ N E	SNOCONE	true	3.460764	nikhil
+7087	Conductor's cue, maybe	DOWNBEAT	8	2	2005	xwords/Aug3005.puz	7	D O W N B _ A T	DOWNBEAT	true	4.111382	nikhil
+553	Time piece?	MINUTE	6	5	2001	xwords/Aug0301.puz	5	M _ N U T E	MINUTE	true	1.855633	nikhil
+6998	High-pH	ALKALINE	8	4	2001	xwords/Aug3001.puz	4	_ L _ A _ I _ E	ALKALINE	true	6.110944	nikhil
+5003	Largest city on the island Fyn	ODENSE	6	0	2005	xwords/Aug2105.puz	3	O _ _ _ S E	X	false	7.566778	nikhil
+6298	Have doubts about	DISTRUST	8	1	2001	xwords/Aug2701.puz	7	_ I S T R U S T	MISTRUST	false	2.047495	nikhil
+9276	Not be rumpled, say	LIEFLAT	7	3	2013	xwords/May2213.puz	3	_ I _ _ _ A T	FILLOAT	false	18.628957	nikhil
+2570	Coats	LAMIATES	8	0	2001	xwords/Aug1201.puz	1	_ _ _ _ _ _ E _	JACKETS	false	4.247758	nikhil
+8890	Like some sunbathers	TOPLESS	7	5	2013	xwords/May1713.puz	1	_ _ _ _ _ S _	X	false	8.110628	nikhil
+2126	Alternative to Certs	TICTACS	7	5	2001	xwords/Aug1001.puz	5	_ I C T A _ S	NICTALS	false	13.133785	nikhil
+8676	Suffocate	SMOTHER	7	3	2013	xwords/May1513.puz	3	_ M _ T _ _ R	SMOTHER	true	2.391592	nikhil
+6358	Get pickled	TIEONEON	8	6	2005	xwords/Aug2705.puz	3	_ I _ O _ _ _ N	LINOLEAN	false	14.925512	nikhil
+2308	Pirate support, stereotypically	PEGLEG	6	1	2009	xwords/Aug1009.puz	2	_ _ _ _ E G	PEGLEG	true	3.64744	nikhil
+3881	Pilot's accessory	HEADSET	7	5	2001	xwords/Aug1701.puz	3	H _ A _ S _ _	HEADSET	true	5.575113	nikhil
+7341	Author Rushdie	SALMAN	6	5	2001	xwords/Aug3101.puz	5	S _ L M A N	SALMAN	true	1.567729	nikhil
+3353	Net worth	ESTATE	6	3	2001	xwords/Aug1501.puz	1	_ S _ _ _ _	ESTATE	true	1.567699	nikhil
+6332	Tried	HADAGOAT	8	6	2005	xwords/Aug2705.puz	2	_ _ D _ _ O _ _	HADAGOAT	true	11.054426	nikhil
+16	Hang in the breeze	AIRDRY	6	3	2001	xwords/Aug0101.puz	4	A _ R D R _	AIRDRY	true	3.887233	nikhil
+8367	Where the guarani is cash	PARAGUAY	8	6	2013	xwords/May1113.puz	4	_ A _ A _ U A _	PARAGUAY	true	4.487205	nikhil
+1039	Ones in high places	MAGNATES	8	3	2009	xwords/Aug0509.puz	4	M _ G N _ _ E _	MAGNATES	true	5.998936	nikhil
+7014	Annual El Paso events	SUNBOWLS	8	4	2001	xwords/Aug3001.puz	6	_ U N _ O W L S	SUNBOWLS	true	4.655098	nikhil
+3907	Not optional	NEEDED	6	5	2001	xwords/Aug1701.puz	4	_ _ E D E D	NEEDED	true	2.41561	nikhil
+8886	Allowing no equivocation	EITHEROR	8	5	2013	xwords/May1713.puz	6	_ I T H E _ O R	EITHEROR	true	3.119359	nikhil
+7963	Tidy types	NEATNIKS	8	1	2013	xwords/May0613.puz	1	_ _ _ _ N _ _ _	NEATNIKS	true	2.567397	nikhil
+4646	Sweater named for an English earl	CARDIGAN	8	1	2001	xwords/Aug2001.puz	2	_ _ R _ _ _ _ N	X	false	8.190688	nikhil
+2177	Meltdown sites	REACTORS	8	3	2005	xwords/Aug1005.puz	5	_ _ A _ T O R S	REACTORS	true	3.223307	nikhil
+6327	Author of "Winter's Tales," 1942	DINESEN	7	6	2005	xwords/Aug2705.puz	5	D I N E _ E _	DINEREY	false	7.982789	nikhil
+7598	Ticket agent?	TROOPER	7	4	2013	xwords/May0213.puz	6	T _ O O P E R	TROOPER	true	2.255591	nikhil
+2754	Shimmery fabrics	MOIRES	6	3	2009	xwords/Aug1209.puz	5	M O I R _ S	MOIRES	true	1.70377	nikhil
+7862	Nave	ARTLESS	7	0	2013	xwords/May0513.puz	4	A R _ L _ S _	ARTLESS	true	7.111202	nikhil
+8471	Kind of garage	ONECAR	6	0	2013	xwords/May1213.puz	1	_ _ _ _ _ R	TWOCAR	false	3.719618	nikhil
+2024	What oviparous creatures do	LAYEGGS	7	0	2009	xwords/Aug0909.puz	3	L A Y _ _ _ _	LAYEGGS	true	2.359375	nikhil
+6725	Title syllables in a hit 1964 song	SHALALA	7	5	2009	xwords/Aug2809.puz	4	_ H A _ _ L A	SHALALA	true	2.879621	nikhil
+548	Off-topic remark?	IDIGRESS	8	5	2001	xwords/Aug0301.puz	2	_ _ _ _ R E _ _	DIVERESS	false	9.326586	nikhil
+9908	N.F.L. team with the mascot Swoop	EAGLES	6	3	2013	xwords/May2913.puz	4	E A _ L _ S	EAGLES	true	3.583418	nikhil
+5238	Rule	HOLDSWAY	8	4	2001	xwords/Aug2301.puz	3	_ _ L _ S _ A _	TELSSTAR	false	6.830759	nikhil
+2343	Yell	CALLOUT	7	6	2001	xwords/Aug1101.puz	1	_ _ L _ _ _ _	CALLOUT	true	5.231088	nikhil
+2492	Paddock sounds	NEIGHS	6	2	2009	xwords/Aug1109.puz	5	N E _ G H S	NEIGHS	true	1.615754	nikhil
+3698	Where many commuters live, informally	THEBURBS	8	0	2009	xwords/Aug1609.puz	5	T _ E _ U R B _	THEBURBS	true	3.311415	nikhil
+8671	Cowboy seats	SADDLES	7	2	2013	xwords/May1413.puz	5	S A D D L _ _	SADDLES	true	2.02384	nikhil
+1799	Moves in a tired way?	ROTATES	7	6	2009	xwords/Aug0809.puz	4	_ _ T _ T E S	ROTATES	true	8.286495	nikhil
+4901	Disappointing return	RELAPSE	7	0	2005	xwords/Aug2105.puz	4	R _ _ A _ S E	RELAPSE	true	3.343439	nikhil
+2679	Barely	BYANOSE	7	0	2001	xwords/Aug1201.puz	5	_ Y A N O _ E	BYANOSE	true	2.511465	nikhil
+6101	Alarm function	AROUSAL	7	5	2005	xwords/Aug2605.puz	1	_ _ _ _ _ A _	WAKEOUT	false	7.338419	nikhil
+1579	"Mother of the believers"	AYESHA	6	5	2009	xwords/Aug0709.puz	5	_ Y E S H A	AYESHA	true	2.42362	nikhil
+2641	Grind	RATRACE	7	0	2001	xwords/Aug1201.puz	6	R A T R _ C E	RATRACE	true	2.383133	nikhil
+9341	Fleming of "Spellbound"	RHONDA	6	4	2013	xwords/May2313.puz	1	_ _ _ _ _ A	AMANDA	false	2.799224	nikhil
+7802	French pantomime character	PIERROT	7	0	2013	xwords/May0513.puz	1	_ _ E _ _ _ _	SEFJSF	false	4.927501	nikhil
+5175	Have the most reliable info	KNOWBEST	8	6	2009	xwords/Aug2209.puz	5	K N _ _ B _ S T	KNOWBEST	true	2.967052	nikhil

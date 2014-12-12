@@ -1,0 +1,25 @@
+3413	Loathsome	ODIOUS	6	1	2005	xwords/Aug1505.puz	1	_ _ _ O _ _	FDS	false	11.3976	nikhil
+5169	Mythological hunter	ACTAEON	7	6	2009	xwords/Aug2209.puz	2	_ C _ _ _ O _	X	false	9.150339	nikhil
+9304	Place a levy on pushpins?	TAXTACKS	8	3	2013	xwords/May2213.puz	4	T _ X T _ _ K _	TAXTACKS	true	3.151415	nikhil
+4104	Lightener	PEROXIDE	8	6	2001	xwords/Aug1801.puz	2	_ _ _ O _ _ _ E	X	false	9.718511	nikhil
+4475	On the run	SCOOTING	8	5	2005	xwords/Aug1905.puz	5	_ _ O O T I N _	THOOTING	false	16.117479	nikhil
+4642	Modern document senders	FAXERS	6	1	2001	xwords/Aug2001.puz	5	F A _ E R S	FAXERS	true	3.407432	nikhil
+3365	Weather indicator	VANE	4	3	2001	xwords/Aug1501.puz	1	V _ _ _	VANE	true	1.679766	nikhil
+8380	Just under half a penny's weight	GRAM	4	6	2013	xwords/May1113.puz	1	_ _ A _	GRAM	true	3.35142	nikhil
+2054	Wayne ___ (Gotham City abode)	MANOR	5	0	2009	xwords/Aug0909.puz	2	_ A _ _ R	MANOR	true	3.607456	nikhil
+3543	Half a leaf	RECTO	5	6	2009	xwords/Aug1509.puz	2	_ _ C _ O	CACAO	false	7.606639	nikhil
+5575	Lacquer ingredient	ELEMI	5	5	2001	xwords/Aug2401.puz	2	E _ _ _ I	ECTOI	false	6.854653	nikhil
+9770	1986 Tom Cruise film	TOPGUN	6	2	2013	xwords/May2813.puz	1	T _ _ _ _ _	TOPGUN	true	2.311606	nikhil
+5251	Big name on the Food Network	EMERIL	6	4	2001	xwords/Aug2301.puz	2	_ M _ _ _ L	EMERIL	true	1.544025	nikhil
+9903	Dogs with dark tongues	CHOWS	5	3	2013	xwords/May2913.puz	2	C _ _ W _	CHOWS	true	2.527713	nikhil
+4759	Big name in oil	WESSON	6	4	2009	xwords/Aug2009.puz	3	W _ S _ _ N	WESSON	true	2.007577	nikhil
+8775	Clint Eastwood, for one	EXMAYOR	7	4	2013	xwords/May1613.puz	3	E _ M A _ _ _	ERMANIC	false	19.620843	nikhil
+4975	Discomfit	ABASH	5	0	2005	xwords/Aug2105.puz	4	_ B A S H	ABASH	true	1.991753	nikhil
+1378	Wrestling hold	LOCK	4	2	2001	xwords/Aug0701.puz	1	_ O _ _	JOHN	false	5.071116	nikhil
+8211	___ in the park	AWALK	5	4	2013	xwords/May0913.puz	4	A W A L _	AWALK	true	1.815581	nikhil
+9252	___ nerve (funny bone part)	ULNAR	5	3	2013	xwords/May2213.puz	1	_ _ _ _ R	ULNAR	true	4.254851	nikhil
+5194	Fractions of a gourde	CENTIMES	8	6	2009	xwords/Aug2209.puz	1	C _ _ _ _ _ _ _	CENTIMES	true	10.397835	nikhil
+6688	Charles who founded an investment firm	MERRILL	7	0	2005	xwords/Aug2805.puz	6	M E _ R I L L	MERRILL	true	2.89623	nikhil
+9667	Not mixing well?	ASOCIAL	7	0	2013	xwords/May2613.puz	1	_ _ _ _ I _ _	XLD	false	8.702642	nikhil
+190	Jackson and others	JESSES	6	6	2009	xwords/Aug0109.puz	5	J _ S S E S	JESSES	true	2.799548	nikhil
+1701	College in New Rochelle, N.Y.	IONA	4	1	2005	xwords/Aug0805.puz	2	_ _ N A	NYNA	false	3.871258	nikhil

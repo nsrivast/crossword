@@ -1,0 +1,48 @@
+9769	Mrs. Woody Allen	SOONYI	6	2	2013	xwords/May2813.puz	3	_ _ _ N Y I	ELENYI	false	3.767007	nikhil
+3496	Cape Fear natives	TARHEELS	8	6	2009	xwords/Aug1509.puz	3	_ A R _ E _ _ _	WADENES	false	11.406185	nikhil
+9922	Homophobia, e.g.	BIGOTRY	7	4	2013	xwords/May3013.puz	3	_ _ G O _ R _	BIGOTRY	true	5.335123	nikhil
+7932	George W. Bush acquisition of 2008	SONINLAW	8	0	2013	xwords/May0513.puz	3	_ _ N _ _ _ A W	PENNLAW	false	15.453457	nikhil
+2991	Gets ready to brush, maybe	FLOSSES	7	4	2009	xwords/Aug1309.puz	5	_ L O S _ E S	FLOSSES	true	4.382989	nikhil
+5166	Agent's cut, maybe	ONETENTH	8	6	2009	xwords/Aug2209.puz	7	O N E T E N _ H	ONETENTH	true	3.351867	nikhil
+7269	Home of the N.H.L.'s Thrashers	ATLANTA	7	0	2009	xwords/Aug3009.puz	6	A T L _ N T A	ATLANTA	true	2.167509	nikhil
+2657	"A Passage to India" family	MOORES	6	0	2001	xwords/Aug1201.puz	2	_ _ _ _ E S	NOIDES	false	11.198102	nikhil
+248	Let up	SLACKEN	7	4	2001	xwords/Aug0201.puz	5	_ L A C _ E N	SLACKEN	true	3.559138	nikhil
+5963	Buttercup family member	ANEMONE	7	0	2001	xwords/Aug2601.puz	1	_ _ _ _ _ _ E	SD	false	5.175063	nikhil
+9501	Circular stack	FLIERS	6	6	2013	xwords/May2513.puz	4	F _ I E _ S	FLIENS	false	10.213921	nikhil
+5523	Professor ___	EMERITUS	8	5	2001	xwords/Aug2401.puz	1	_ _ _ _ _ T _ _	PATATHA	false	5.838922	nikhil
+6189	Dutch brew	AMSTEL	6	3	2009	xwords/Aug2609.puz	4	_ _ S T E L	AMSTEL	true	1.879596	nikhil
+8373	Good occasion for kite-flying	WINDYDAY	8	6	2013	xwords/May1113.puz	6	W I _ D Y D A _	WINDYDAY	true	3.807519	nikhil
+4070	Polished	SMOOTH	6	6	2001	xwords/Aug1801.puz	1	_ _ O _ _ _	ATONED	false	3.855421	nikhil
+8841	Albuterol alleviates it	ASTHMA	6	5	2013	xwords/May1713.puz	4	A _ T _ M A	ASTHMA	true	2.839399	nikhil
+9634	Mind-numbing	TIRESOME	8	0	2013	xwords/May2613.puz	1	_ _ R _ _ _ _ _	BOREBARS	false	10.710147	nikhil
+2941	Became more palatable to over time	GREWON	6	6	2005	xwords/Aug1305.puz	2	G _ _ _ _ N	GREWON	true	4.175248	nikhil
+4394	Firecracker's path	PARABOLA	8	0	2001	xwords/Aug1901.puz	2	P _ _ _ _ _ L _	PRICLELE	false	10.901946	nikhil
+3938	"Who cares?"	SOWHAT	6	3	2005	xwords/Aug1705.puz	4	_ O W _ A T	SOWHAT	true	1.735169	nikhil
+1751	Second chances for students	MAKEUPS	7	6	2009	xwords/Aug0809.puz	4	M _ K _ U _ S	MAKEUPS	true	3.111446	nikhil
+6464	Exxon Valdez mishap	OILSPILL	8	2	2001	xwords/Aug2801.puz	7	O I L S P I L _	OILSPILL	true	3.367293	nikhil
+856	Flu symptoms	SHIVERS	7	4	2005	xwords/Aug0405.puz	6	_ H I V E R S	SHIVERS	true	1.680094	nikhil
+6600	Yardsticks	CRITERIA	8	0	2005	xwords/Aug2805.puz	2	_ _ _ _ E R _ _	RULERS	false	7.486793	nikhil
+888	What some drinkers run up	BARTABS	7	2	2009	xwords/Aug0409.puz	3	_ A _ T _ B _	BARTABS	true	5.239099	nikhil
+5538	Under the spell (of)	ENAMORED	8	5	2001	xwords/Aug2401.puz	3	_ N _ M O _ _ _	ENAMORED	true	2.999275	nikhil
+6300	Bogged down	INARUT	6	1	2001	xwords/Aug2701.puz	1	_ N _ _ _ _	INARUT	true	5.158893	nikhil
+3238	Ballerina Karsavina	TAMARA	6	0	2005	xwords/Aug1405.puz	2	_ A _ A _ _	LATANA	false	2.959459	nikhil
+6364	Base figure	SERGEANT	8	6	2005	xwords/Aug2705.puz	3	_ _ R _ E A _ _	D	false	2.111819	nikhil
+3749	Hollywood hopefuls	STARLETS	8	0	2009	xwords/Aug1609.puz	2	S _ _ _ _ _ T _	STARLETS	true	2.623156	nikhil
+7588	Like monastery life	AUSTERE	7	4	2013	xwords/May0213.puz	6	A U _ T E R E	AUSTERE	true	1.751769	nikhil
+8579	New Jersey's capital	TRENTON	7	1	2013	xwords/May1313.puz	6	T R _ N T O N	TRENTON	true	1.567915	nikhil
+3025	They give you control	REMOTES	7	4	2009	xwords/Aug1309.puz	1	_ E _ _ _ _ _	LEASURES	false	8.758258	nikhil
+217	Bygone Buicks	RIVIERAS	8	6	2009	xwords/Aug0109.puz	5	R I V I _ _ A _	RIVIERAS	true	4.231245	nikhil
+1836	Find out about	LEARNOF	7	4	2001	xwords/Aug0901.puz	4	_ _ A R _ O F	HEARDOF	false	4.015706	nikhil
+6134	Some rigging supporters	TOPMASTS	8	5	2005	xwords/Aug2605.puz	3	T _ P _ A _ _ _	TOPSAILS	false	8.830385	nikhil
+5309	Philatelists' books	ALBUMS	6	2	2005	xwords/Aug2305.puz	2	A _ _ _ M _	ALBUMS	true	6.478717	nikhil
+2916	Picture improver	HDTVSET	7	6	2005	xwords/Aug1305.puz	3	_ D _ _ _ E T	EDGELET	false	8.110636	nikhil
+1597	Saudi capital	RIYADH	6	3	2001	xwords/Aug0801.puz	4	R I Y _ D _	RIYADH	true	2.167249	nikhil
+3705	Won't take no for an answer	INSISTS	7	0	2009	xwords/Aug1609.puz	6	I N S I S T _	INSISTS	true	2.439763	nikhil
+4914	Treat with honey	BAKLAVA	7	0	2005	xwords/Aug2105.puz	2	_ _ K _ _ _ A	BAKLAVA	true	5.622689	nikhil
+1800	"The Great Gatsby" setting	JAZZAGE	7	6	2009	xwords/Aug0809.puz	5	J A _ Z _ G E	JAZZAGE	true	3.159551	nikhil
+7802	French pantomime character	PIERROT	7	0	2013	xwords/May0513.puz	4	P I _ R R _ _	PIERRES	false	3.559419	nikhil
+6187	Come into prominence	EMERGE	6	3	2009	xwords/Aug2609.puz	5	_ M E R G E	EMERGE	true	1.615511	nikhil
+6842	Leave 50%, maybe	OVERTIP	7	3	2001	xwords/Aug2901.puz	6	O V E R T _ P	OVERTIP	true	2.015581	nikhil
+4184	Panacea	CUREALL	7	4	2005	xwords/Aug1805.puz	3	_ U R _ _ L _	CUREALL	true	1.919608	nikhil
+2079	Backyard briquettes	CHARCOAL	8	0	2009	xwords/Aug0909.puz	3	_ _ _ R _ O A _	CHARCOAL	true	2.287455	nikhil
+165	They remove letters	EVICTORS	8	6	2009	xwords/Aug0109.puz	2	_ _ _ _ _ _ R S	X	false	8.294644	nikhil

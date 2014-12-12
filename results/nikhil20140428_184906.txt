@@ -1,0 +1,60 @@
+5006	"The Kingdom and the Power" author	TALESE	6	0	2005	xwords/Aug2105.puz	3	T _ L _ S _	TOLIST	false	19.638909	nikhil
+5429	Oven option	BROILER	7	0	2009	xwords/Aug2309.puz	1	_ R _ _ _ _ _	PREHEAT	false	4.231613	nikhil
+4052	Fashionable	CHIC	4	1	2009	xwords/Aug1709.puz	3	_ H I C	CHIC	true	1.511953	nikhil
+9280	Starbucks order	MOCHA	5	3	2013	xwords/May2213.puz	4	M O C H _	MOCHA	true	1.447873	nikhil
+8888	Favor doer's comment	YOUOWEME	8	5	2013	xwords/May1713.puz	4	_ _ _ _ W E M E	YOUOWEME	true	4.287847	nikhil
+10013	Farrell of "In Bruges"	COLIN	5	5	2013	xwords/May3113.puz	1	_ _ _ I _	FJD	false	5.767465	nikhil
+3547	Like some cuisine	ETHNIC	6	4	2001	xwords/Aug1601.puz	3	E _ _ N _ C	ETHNIC	true	2.56784	nikhil
+954	Help in holding up	ABETMENT	8	5	2005	xwords/Aug0505.puz	1	A _ _ _ _ _ _ _	ASSISTANCE	false	16.69526	nikhil
+3940	Hurt	ACHED	5	3	2005	xwords/Aug1705.puz	1	_ C _ _ _	SCREW	false	23.943088	nikhil
+2473	"___ kleine Nachtmusik"	EINE	4	2	2009	xwords/Aug1109.puz	3	E _ N E	EINE	true	3.360096	nikhil
+5011	Poet Pablo Neruda, for one	CHILEAN	7	5	2009	xwords/Aug2109.puz	5	C _ I L _ A N	CHILEAN	true	3.063867	nikhil
+9959	Bhagavad ___ (Hindu text)	GITA	4	4	2013	xwords/May3013.puz	2	G I _ _	GITA	true	1.591516	nikhil
+3579	Picnicker's worry	RAIN	4	4	2001	xwords/Aug1601.puz	1	_ _ _ N	RAIN	true	2.64003	nikhil
+7434	Indian beads used as money	WAMPUM	6	1	2009	xwords/Aug3109.puz	2	_ _ _ _ U M	WAMPUM	true	7.183689	nikhil
+3011	Some car roofs	TTOPS	5	4	2009	xwords/Aug1309.puz	1	_ T _ _ _	ATERS	false	24.279202	nikhil
+3918	Family tree entry	RELATIVE	8	3	2005	xwords/Aug1705.puz	4	R _ L A _ _ V _	RELATIVE	true	4.647699	nikhil
+5121	Speck in the sea	ISLET	5	1	2005	xwords/Aug2205.puz	2	_ _ _ E T	ISLET	true	3.983708	nikhil
+6673	Summer Olympics racers	SCULLS	6	0	2005	xwords/Aug2805.puz	3	_ C U _ L _	SCULLS	true	27.223175	nikhil
+9546	Expect	AWAIT	5	0	2013	xwords/May2613.puz	2	_ W A _ _	AWAIT	true	2.495921	nikhil
+4582	Hoof sound	CLOP	4	1	2001	xwords/Aug2001.puz	3	_ L O P	CLOP	true	1.880172	nikhil
+9290	Strained-at bug, in an idiom	GNAT	4	3	2013	xwords/May2213.puz	3	G N A _	GNAT	true	2.807946	nikhil
+1477	Surfer stops	WEBPAGES	8	0	2005	xwords/Aug0705.puz	7	W E B P A G E _	WEBPAGES	true	2.44783	nikhil
+8282	Finish differently, say	RESTAIN	7	5	2013	xwords/May1013.puz	5	_ E S _ A I N	RESTAIN	true	14.927476	nikhil
+6587	Holy scrolls	TORAHS	6	0	2005	xwords/Aug2805.puz	2	_ _ _ A _ S	TEKANS	false	15.767352	nikhil
+1790	Little auk	DOVEKIE	7	6	2009	xwords/Aug0809.puz	1	_ _ _ _ K _ _	KAND	false	6.407503	nikhil
+6117	Words of sympathy	IMSORRY	7	5	2005	xwords/Aug2605.puz	5	I M S _ R R _	IMSORRY	true	4.023783	nikhil
+3698	Where many commuters live, informally	THEBURBS	8	0	2009	xwords/Aug1609.puz	7	T _ E B U R B S	THEBURBS	true	2.791769	nikhil
+7164	Kind of acid	LACTIC	6	0	2009	xwords/Aug3009.puz	5	L A _ T I C	LACTIC	true	1.672135	nikhil
+3496	Cape Fear natives	TARHEELS	8	6	2009	xwords/Aug1509.puz	2	_ A _ _ _ _ L _	CABALS	false	27.694688	nikhil
+330	Sport with horses	POLO	4	2	2005	xwords/Aug0205.puz	3	P _ L O	POLO	true	1.983912	nikhil
+5393	Transmitter of nagana	TSETSE	6	0	2009	xwords/Aug2309.puz	5	T S E T S _	TSETSE	true	2.375793	nikhil
+6527	Battery terminal	ANODE	5	2	2001	xwords/Aug2801.puz	2	_ _ _ D E	DIODE	false	1.679845	nikhil
+8059	Refuse	SAYNO	5	2	2013	xwords/May0713.puz	4	_ A Y N O	SAYNO	true	1.727906	nikhil
+9607	Basketball Hall-of-Famer Artis	GILMORE	7	0	2013	xwords/May2613.puz	5	G I L _ O R _	GILMORE	true	2.935605	nikhil
+2471	"Well, sorr-r-r-y!"	SOSUEME	7	2	2009	xwords/Aug1109.puz	6	S O S _ E M E	SOSUEME	true	2.591884	nikhil
+7644	Broadcast online in real time	STREAM	6	4	2013	xwords/May0213.puz	1	_ _ _ _ _ M	WEBCAM	false	11.767345	nikhil
+8639	Who, What and I Don't Know, in Abbott and Costello's "Who's on First?" routine	BASEMEN	7	2	2013	xwords/May1413.puz	3	B A S _ _ _ _	BASEMEN	true	6.399531	nikhil
+6865	"Miss ___ Regrets"	OTIS	4	1	2005	xwords/Aug2905.puz	3	O T _ S	OTIS	true	2.775895	nikhil
+3020	"Hold on!"	WAITASEC	8	4	2009	xwords/Aug1309.puz	2	_ _ I _ _ S _ _	WAITASEC	true	4.711697	nikhil
+5037	Attacked	WENTAT	6	5	2009	xwords/Aug2109.puz	5	_ E N T A T	SENTAT	false	3.279743	nikhil
+1913	Business that makes a lot of dough	BAKERY	6	2	2005	xwords/Aug0905.puz	4	B A _ E _ Y	BAKERY	true	3.447664	nikhil
+1554	"Jeopardy!" fodder	ANSWERS	7	5	2009	xwords/Aug0709.puz	4	_ N _ W E _ S	ANSWERS	true	3.35974	nikhil
+5010	Loose	ATLARGE	7	5	2009	xwords/Aug2109.puz	6	A _ L A R G E	ATLARGE	true	2.207833	nikhil
+7826	Nursery gift?	GREENTMB	8	0	2013	xwords/May0513.puz	3	G _ _ E _ T _ _	GIVENTES	false	28.462881	nikhil
+2695	City on the Guadalquivir	SEVILLE	7	5	2005	xwords/Aug1205.puz	6	S E V I L _ E	SEVILLE	true	5.807547	nikhil
+7038	Psalms interjection	SELAH	5	4	2001	xwords/Aug3001.puz	2	S E _ _ _	SEYSO	false	14.663317	nikhil
+482	Nitrogen compounds	AMINES	6	0	2009	xwords/Aug0209.puz	4	A M I _ _ S	AMIDES	false	2.6877	nikhil
+5948	The Beav's big brother	WALLY	5	2	2009	xwords/Aug2509.puz	2	_ _ L L _	WALLY	true	5.879765	nikhil
+3530	They're often stuffed	TURKEYS	7	6	2009	xwords/Aug1509.puz	1	_ _ _ _ _ _ S	TAMALES	false	2.839812	nikhil
+460	Fictional Plaza Hotel resident	ELOISE	6	0	2009	xwords/Aug0209.puz	2	E _ _ _ S _	ELSORE	false	5.392	nikhil
+4163	Bobber's quest	APPLE	5	4	2005	xwords/Aug1805.puz	3	A P _ _ E	APPLE	true	4.343891	nikhil
+7299	Bad atmosphere	MIASMA	6	5	2001	xwords/Aug3101.puz	3	_ _ A S M _	MIASMA	true	3.255794	nikhil
+9501	Circular stack	FLIERS	6	6	2013	xwords/May2513.puz	3	F _ _ _ R S	FLOORS	false	17.647222	nikhil
+2553	"The Great ___" (1979 film)	SANTII	6	0	2001	xwords/Aug1201.puz	2	_ A _ _ _ I	BANABI	false	8.791535	nikhil
+814	Feature of a Friars Club meeting	MIRTH	5	4	2005	xwords/Aug0405.puz	2	_ _ _ T H	FIRTH	false	12.18329	nikhil
+6017	North Sea feeder	MEUSE	5	0	2001	xwords/Aug2601.puz	2	M _ _ _ E	MARNE	false	3.111776	nikhil
+663	South Pacific kingdom	TONGA	5	1	2009	xwords/Aug0309.puz	3	T O _ _ A	TONGA	true	4.112087	nikhil
+4458	Pitching statistic	STARTS	6	5	2005	xwords/Aug1905.puz	5	S T A R _ S	STARTS	true	2.448086	nikhil
+3042	Group of fish	SCHOOL	6	2	2001	xwords/Aug1401.puz	3	_ C _ _ O L	SCHOOL	true	2.072086	nikhil
+7369	Can't abide	LOATHE	6	3	2005	xwords/Aug3105.puz	1	_ _ _ _ _ E	FDJS	false	2.40769	nikhil

@@ -1,0 +1,87 @@
+9798	Native Kiwis	MAORI	5	2	2013	xwords/May2813.puz	2	_ A _ _ I	TAHOI	false	8.831724	nikhil
+6470	Koran religion	ISLAM	5	2	2001	xwords/Aug2801.puz	4	I S L A _	ISLAM	true	2.087704	nikhil
+1154	Handle	ARRANGE	7	1	2001	xwords/Aug0601.puz	2	_ _ _ _ N G _	PHLANGE	false	5.487944	nikhil
+3720	Stilt, e.g.	SEABIRD	7	0	2009	xwords/Aug1609.puz	1	_ _ _ _ _ _ D	ROOFRED	false	24.246897	nikhil
+2641	Grind	RATRACE	7	0	2001	xwords/Aug1201.puz	5	_ _ T R A C E	OUTRACE	false	10.663268	nikhil
+10007	Style played on a guitarrn	MARIACHI	8	5	2013	xwords/May3113.puz	1	_ A _ _ _ _ _ _	PAMPANO	false	5.751568	nikhil
+8190	Bless, in a way	ANOINT	6	4	2013	xwords/May0913.puz	3	A N O _ _ _	ANOINT	true	4.935565	nikhil
+6919	Georgia and Lithuania, once: Abbr.	SSRS	4	1	2005	xwords/Aug2905.puz	3	S S R _	SSRS	true	1.687587	nikhil
+660	Gorges	CHASMS	6	1	2009	xwords/Aug0309.puz	4	C H A _ M _	CHASMS	true	2.183873	nikhil
+2701	Bosses	PADRONES	8	5	2005	xwords/Aug1205.puz	7	P A _ R O N E S	PATRONES	false	4.279564	nikhil
+376	Pursue violent options	USEFORCE	8	0	2009	xwords/Aug0209.puz	2	_ S _ _ _ R _ _	ESCALATE	false	7.503693	nikhil
+8178	Like melees	NOISY	5	4	2013	xwords/May0913.puz	1	N _ _ _ _	NEWER	false	21.15923	nikhil
+800	Wingdings	BLASTS	6	4	2005	xwords/Aug0405.puz	4	_ _ A S T S	CHASTS	false	9.007764	nikhil
+5830	Weaken	ENERVATE	8	4	2005	xwords/Aug2505.puz	1	_ _ E _ _ _ _ _	ENERVATE	true	3.087945	nikhil
+3763	Places to unwind	SPAS	4	0	2009	xwords/Aug1609.puz	1	_ P _ _	SPAS	true	2.759825	nikhil
+9384	Firebrand	AGITATOR	8	4	2013	xwords/May2313.puz	5	A _ I T _ T _ R	AGITATOR	true	2.791858	nikhil
+8261	Giant giant's family	OTTS	4	5	2013	xwords/May1013.puz	3	_ T T S	OTTS	true	9.823461	nikhil
+85	Tap dancing without taps	SOFTSHOE	8	1	2005	xwords/Aug0105.puz	5	_ O _ T S H _ E	FOOTSHOE	false	13.223288	nikhil
+4217	Peter I, II or III	TSAR	4	2	2009	xwords/Aug1809.puz	2	T _ A _	TSAR	true	2.615776	nikhil
+9647	Epitome of thinness	RAZOR	5	0	2013	xwords/May2613.puz	3	R A Z _ _	RAZOR	true	2.063976	nikhil
+4073	Stubborn types	BULLDOGS	8	6	2001	xwords/Aug1801.puz	3	B _ L _ _ O _ _	BALLHOGS	false	33.174418	nikhil
+2409	"Time to get started"	LETSROLL	8	4	2005	xwords/Aug1105.puz	7	L E T _ R O L L	LETSROLL	true	2.471767	nikhil
+767	Prefix in some alloy names	FERRO	5	6	2001	xwords/Aug0401.puz	3	F E R _ _	FERIC	false	4.775453	nikhil
+5428	Overthrows	TOPPLES	7	0	2009	xwords/Aug2309.puz	2	T _ _ _ _ E _	TOPPLES	true	3.360076	nikhil
+7905	Syrup source	TREESAP	7	0	2013	xwords/May0513.puz	3	T _ _ E _ _ P	TREETAP	false	17.20716	nikhil
+4665	Aprs-ski orders	COCOAS	6	6	2005	xwords/Aug2005.puz	2	_ _ C _ _ S	HACTES	false	5.279533	nikhil
+9383	Genteel affairs	TEAS	4	4	2013	xwords/May2313.puz	2	_ _ A S	TEAS	true	20.415188	nikhil
+1801	Figures at a pileup	EMTS	4	6	2009	xwords/Aug0809.puz	2	E _ T _	EMTS	true	9.447762	nikhil
+7810	Augments	ADDSTO	6	0	2013	xwords/May0513.puz	5	A D D S T _	ADDSTO	true	5.111471	nikhil
+6004	St. Patrick's Day celebrant	PARADER	7	0	2001	xwords/Aug2601.puz	4	_ A R A D _ _	PARADER	true	4.447661	nikhil
+742	Rounds	ORBITS	6	6	2001	xwords/Aug0401.puz	5	_ R B I T S	ORBITS	true	2.279722	nikhil
+5947	Dr. ___ (Mike Myers character)	EVIL	4	2	2009	xwords/Aug2509.puz	3	_ V I L	EVIL	true	1.687827	nikhil
+8520	Big show	EXPO	4	0	2013	xwords/May1213.puz	1	_ X _ _	EXPO	true	6.743614	nikhil
+9725	"Nothing left to say"	THATSALL	8	1	2013	xwords/May2713.puz	5	T _ A _ S A _ L	THATSALL	true	2.383789	nikhil
+1799	Moves in a tired way?	ROTATES	7	6	2009	xwords/Aug0809.puz	4	R _ T _ _ E S	RETIRES	false	5.223776	nikhil
+2405	Plain folk	AMISH	5	4	2005	xwords/Aug1105.puz	2	_ _ _ S H	AMISH	true	3.615746	nikhil
+9031	She, in Salerno	ESSA	4	0	2013	xwords/May1913.puz	1	_ S _ _	ESSA	true	3.631608	nikhil
+5973	Sweet Spanish wine	MALAGA	6	0	2001	xwords/Aug2601.puz	5	M A L A G _	MALAGA	true	1.727637	nikhil
+7629	Facing	TOWARD	6	4	2013	xwords/May0213.puz	3	_ O _ _ R D	TOWARD	true	3.191648	nikhil
+8377	Home of more than 900 volcanoes	ANDES	5	6	2013	xwords/May1113.puz	3	_ _ D E S	ANDES	true	3.127789	nikhil
+7336	Medieval fortress city in Italy	ESTE	4	5	2001	xwords/Aug3101.puz	3	_ S T E	ISTE	false	3.288129	nikhil
+9328	2006 Grammy winner for "Amarantine"	ENYA	4	4	2013	xwords/May2313.puz	2	E _ _ A	ELBA	false	15.143516	nikhil
+4161	Cyberhandle	USERID	6	4	2005	xwords/Aug1805.puz	5	U S E _ I D	USERID	true	2.183815	nikhil
+1264	Without a break	ONEACT	6	4	2009	xwords/Aug0609.puz	3	O _ E _ _ T	ONEHIT	false	41.102522	nikhil
+5159	"By the Waters of Babylon" author, 1937	BENET	5	6	2009	xwords/Aug2209.puz	4	B E N _ T	BENET	true	2.495593	nikhil
+9788	"Growing Pains" co-star Alan	THICKE	6	2	2013	xwords/May2813.puz	4	_ _ I C K E	PRICKE	false	5.599365	nikhil
+4680	Despicable sorts	LOWLIFES	8	6	2005	xwords/Aug2005.puz	3	L _ W _ _ _ E _	LOWLIFES	true	3.75968	nikhil
+2987	Not a long-term solution	BANDAID	7	4	2009	xwords/Aug1309.puz	1	_ A _ _ _ _ _	BANDAID	true	7.639649	nikhil
+4245	"Dear me!"	MYWORD	6	2	2009	xwords/Aug1809.puz	4	M _ W O R _	MYWORD	true	2.448197	nikhil
+9312	Severely reprimand, with "out"	REAM	4	3	2013	xwords/May2213.puz	1	_ _ A _	REAM	true	4.775946	nikhil
+7571	Running, poetically	AFLOW	5	3	2013	xwords/May0113.puz	3	A _ _ O W	AFROW	false	15.359247	nikhil
+4304	In ___ (quiet)	ALULL	5	0	2001	xwords/Aug1901.puz	4	A L U L _	ALULL	true	3.223674	nikhil
+479	1992 Damon Wayans comedy	MOMONEY	7	0	2009	xwords/Aug0209.puz	5	_ O M O _ E Y	MOMONEY	true	2.976072	nikhil
+7902	Priest, in an Ogden Nash poem	ONELLAMA	8	0	2013	xwords/May0513.puz	1	O _ _ _ _ _ _ _	OSSIFY	false	3.27983	nikhil
+6431	Out on the water	ASEA	4	4	2009	xwords/Aug2709.puz	2	_ S E _	ASEA	true	1.839868	nikhil
+9631	Alma mater of Eli Manning	OLEMISS	7	0	2013	xwords/May2613.puz	6	O L E M _ S S	OLEMISS	true	2.935752	nikhil
+6605	Tart: Var.	FLOOSIE	7	0	2005	xwords/Aug2805.puz	1	_ _ O _ _ _ _	DKF	false	5.135733	nikhil
+5828	Bryn ___	MAWR	4	4	2005	xwords/Aug2505.puz	3	M _ W R	MAWR	true	1.631726	nikhil
+7098	Mao colleague	ZHOU	4	2	2005	xwords/Aug3005.puz	3	Z _ O U	ZHOU	true	1.999868	nikhil
+6433	Foolish chatter	PRATTLE	7	4	2009	xwords/Aug2709.puz	5	P R A T _ _ E	PRATTLE	true	2.407989	nikhil
+4815	Gymnast Comaneci	NADIA	5	2	2001	xwords/Aug2101.puz	2	_ A D _ _	NADIA	true	7.751936	nikhil
+9045	Some bookmarks, for short	URLS	4	0	2013	xwords/May1913.puz	3	U R _ S	URLS	true	1.863835	nikhil
+6461	Bleep out	CENSOR	6	2	2001	xwords/Aug2801.puz	1	_ _ _ _ O _	CENSOR	true	2.111707	nikhil
+6933	Bowling ball material	URETHANE	8	6	2009	xwords/Aug2909.puz	1	_ _ _ _ _ _ N _	ALDF	false	18.767419	nikhil
+9274	Reproduces, in a way	XEROXES	7	3	2013	xwords/May2213.puz	4	_ E _ _ X E S	REMIXES	false	6.375879	nikhil
+1347	Swing in the breeze	SWAY	4	2	2001	xwords/Aug0701.puz	1	_ _ A _	LEAM	false	29.678564	nikhil
+8992	Noses	EDGES	5	0	2013	xwords/May1913.puz	1	_ _ _ _ S	BUTTS	false	5.095589	nikhil
+1835	Brightest star in the Aquila constellation	ALTAIR	6	4	2001	xwords/Aug0901.puz	3	_ L _ A _ R	ALTAIR	true	5.807714	nikhil
+8341	Twin-engine Navy helicopter	SEAHAWK	7	6	2013	xwords/May1113.puz	3	S _ A _ A _ _	SEAHAWK	true	5.911825	nikhil
+7854	Isak Dinesen novel setting	AFCA	4	0	2013	xwords/May0513.puz	1	_ _ _ A	ASIA	false	3.559633	nikhil
+4481	Images on some Christmas wrapping	SANTAS	6	5	2005	xwords/Aug1905.puz	1	_ _ N _ _ _	SANTAS	true	2.431861	nikhil
+4409	Sympathize with	FEELFOR	7	0	2001	xwords/Aug1901.puz	4	_ E E _ _ O R	FEELFOR	true	2.447804	nikhil
+5250	Sitcom friend of Barbarino	HORSHACK	8	4	2001	xwords/Aug2301.puz	7	H O _ S H A C K	HORSHACK	true	5.447388	nikhil
+5725	Industry in Las Vegas and Atlantic City	GAMING	6	1	2009	xwords/Aug2409.puz	2	_ A _ _ _ G	GAMING	true	6.767652	nikhil
+5030	Personal writings	JOURNAL	7	5	2009	xwords/Aug2109.puz	4	J O U R _ _ _	JOURNAL	true	2.456072	nikhil
+3062	Pencil's end	ERASER	6	2	2001	xwords/Aug1401.puz	2	_ _ A _ E _	ERASER	true	1.751905	nikhil
+7045	Shoe sole material	CREPE	5	4	2001	xwords/Aug3001.puz	2	C _ E _ _	CREED	false	30.966757	nikhil
+5568	Actor Green and others	SETHS	5	5	2001	xwords/Aug2401.puz	4	_ E T H S	SETHS	true	1.759857	nikhil
+2958	Winemaking village east of Verona	SOAVE	5	6	2005	xwords/Aug1305.puz	1	_ _ _ _ E	ADAGE	false	13.295157	nikhil
+2110	It's good for climbing hills	LOWGEAR	7	5	2001	xwords/Aug1001.puz	2	L _ _ _ E _ _	LOWGEAR	true	9.271468	nikhil
+9337	Some salon jobs	TRIMS	5	4	2013	xwords/May2313.puz	1	_ R _ _ _	PREPS	false	4.591836	nikhil
+2317	Persona non ___	GRATA	5	1	2009	xwords/Aug1009.puz	2	G R _ _ _	GRATA	true	1.880179	nikhil
+4724	Has on hand	STOCKS	6	4	2009	xwords/Aug2009.puz	2	S _ _ _ _ S	STORES	false	4.863781	nikhil
+2343	Yell	CALLOUT	7	6	2001	xwords/Aug1101.puz	4	C _ L _ _ U T	CALLOUT	true	2.247639	nikhil
+3278	Like the smell of fresh pine	WOODSY	6	5	2009	xwords/Aug1409.puz	2	_ O _ D _ _	WOODEN	false	2.391686	nikhil
+1402	Dirt spreader	GOSSIPER	8	0	2005	xwords/Aug0705.puz	3	G O _ _ _ P _ _	GOSSIPER	true	4.319798	nikhil
+7133	George Burns movie	OHGOD	5	2	2005	xwords/Aug3005.puz	3	O _ G _ D	DKFJ	false	2.880071	nikhil

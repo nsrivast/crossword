@@ -1,0 +1,12 @@
+5229	Lame ducks	GONERS	6	4	2001	xwords/Aug2301.puz	3	G O _ _ R _	GONERS	true	4.591337	nikhil
+2916	Picture improver	HDTVSET	7	6	2005	xwords/Aug1305.puz	2	_ D _ V _ _ _	EDIVION	false	27.82282	nikhil
+3067	Wickedness	EVIL	4	2	2001	xwords/Aug1401.puz	3	E _ I L	EVIL	true	4.295717	nikhil
+5075	Least accessible	REMOTEST	8	5	2009	xwords/Aug2109.puz	2	_ _ M _ T _ _ _	REMOTEST	true	2.72794	nikhil
+5755	Regatta participants	OARS	4	6	2001	xwords/Aug2501.puz	3	O _ R S	EARS	false	3.800177	nikhil
+6485	Dissuades	DETERS	6	2	2001	xwords/Aug2801.puz	4	D _ T E _ S	DETERS	true	2.911903	nikhil
+9528	Winner of seven tennis majors in the 1920s	LACOSTE	7	6	2013	xwords/May2513.puz	4	L _ C O _ T _	LACOSTE	true	6.943557	nikhil
+6976	What an antsy person might watch	CLOCK	5	6	2009	xwords/Aug2909.puz	3	_ L O _ K	CLOCK	true	4.135752	nikhil
+1193	Make a prisoner of war	INTERN	6	6	2005	xwords/Aug0605.puz	1	_ _ _ _ R _	RECORE	false	9.063265	nikhil
+2787	Complain	MOAN	4	3	2009	xwords/Aug1209.puz	3	M O _ N	MOAN	true	2.119813	nikhil
+6446	Muscle connector	SINEW	5	4	2009	xwords/Aug2709.puz	1	_ _ _ _ W	SINEW	true	1.91202	nikhil
+8322	Este Lauder fragrance for men	ARAMIS	6	6	2013	xwords/May1113.puz	1	_ _ A _ _ _	SJF	false	4.423683	nikhil
