@@ -69,11 +69,11 @@ Note small sample size for later days. Overall, approximately correct times. Thi
 
 **A1**. Conservative play is slightly faster than random play and considerably faster than aggressive play, across a range of difficulty ranges and grid sizes. Random is close to conservative, most likely because toward the end of a grid most of the remaining words will already have squares filled in. For example, after filling two ACROSS clues in a 5x5 grid, there are 8 remaining clues, 5 of them have two squares filled in and only 3 are empty.
 
-![Performance Time Chart](https://github.com/nsrivast/crossword/tree/master/figures/perf_times.png)
+![Performance Time Chart](https://github.com/nsrivast/crossword/blob/master/figures/perf_times.png)
 
 Aggressive play, however, usually requires fewer total word guesses. This makes sense - with each successful guess, more of the crossword is filled. The effect reverses for larger and more difficult boards, presumably because the probability of a successful guess decreases to the point where it ends up costing more turns and time. Even for smaller and easier grids, conservative play is still faster when adding a reasonable non-zero switching time between word guesses. 
 
-![Performance Turns Chart](https://github.com/nsrivast/crossword/tree/master/figures/perf_turns.png)
+![Performance Turns Chart](https://github.com/nsrivast/crossword/blob/master/figures/perf_turns.png)
 
 **Q2**. In a grid, is it better to go for the shorter or longer words first?
 
