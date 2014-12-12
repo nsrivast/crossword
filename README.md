@@ -1,16 +1,14 @@
-crossword
-=========
+## crossword
 
-goal
--------
+#### goal
 explore clue selection strategies for solving crosswords, assuming:
-- solving clues is a function of:
--- answer length 
--- portion of answer completed
-- solving method returns correct answer or no answer after finite time
+1. solving clues is a function of:
+- answer length 
+- portion of answer completed
+2. solving method returns correct answer or no answer after finite time
 
-steps
--------
+
+#### steps
 
 1. model 2 functions with dictionary data (2.5 hours)
  * find, import words + definitions
@@ -52,9 +50,9 @@ TOTAL = 12.5 hours
 analysis
 --------
 
-Q0. Does the model produce approximately correct timing for life-sized crossowrds?
+**Q0**. Does the model produce approximately correct timing for life-sized crossowrds?
 
-A0. Assume Monday through Saturday crosswords have 75 clues each, with average word lengths of 5 for Mon-Wed and 6 for Thurs-Sat. The first column shows appropriately scaled model times for NikhilGuesser and PickCloser (default strategy), the second column shows actual times.
+**A0**. Assume Monday through Saturday crosswords have 75 clues each, with average word lengths of 5 for Mon-Wed and 6 for Thurs-Sat. The first column shows appropriately scaled model times for NikhilGuesser and PickCloser (default strategy), the second column shows actual times.
 
 | Day size | model times (std) | real times (std) | n real |
 -----------|-------------------|------------------|---------
@@ -67,17 +65,19 @@ A0. Assume Monday through Saturday crosswords have 75 clues each, with average w
 
 Note small sample size for later days. Overall, approximately correct times. This analysis ignores "theme" clues, which presumably account for much of the variance in harder days.
 
-Q1. In general, is it better to play conservatively (selecting words that already have many squares filled it) or aggressively (selecting words that are mostly empty)?
+**Q1**. In general, is it better to play conservatively (selecting words that already have many squares filled it) or aggressively (selecting words that are mostly empty)?
 
-A1. Conservative play is slightly faster than random play and considerably faster than aggressive play, across a range of difficulty ranges and grid sizes. Random is close to conservative, most likely because toward the end of a grid most of the remaining words will already have squares filled in. For example, after filling two ACROSS clues in a 5x5 grid, there are 8 remaining clues, 5 of them have two squares filled in and only 3 are empty.
-[perf_times.png]
+**A1**. Conservative play is slightly faster than random play and considerably faster than aggressive play, across a range of difficulty ranges and grid sizes. Random is close to conservative, most likely because toward the end of a grid most of the remaining words will already have squares filled in. For example, after filling two ACROSS clues in a 5x5 grid, there are 8 remaining clues, 5 of them have two squares filled in and only 3 are empty.
+
+![Performance Time Chart](https://github.com/nsrivast/crossword/tree/master/figures/perf_times.png)
 
 Aggressive play, however, usually requires fewer total word guesses. This makes sense - with each successful guess, more of the crossword is filled. The effect reverses for larger and more difficult boards, presumably because the probability of a successful guess decreases to the point where it ends up costing more turns and time. Even for smaller and easier grids, conservative play is still faster when adding a reasonable non-zero switching time between word guesses. 
-[perf_turns.png]
 
-Q2. In a grid, is it better to go for the shorter or longer words first?
+![Performance Turns Chart](https://github.com/nsrivast/crossword/tree/master/figures/perf_turns.png)
 
-A2. Data indicate selecting shorter words produces faster times than longer words. The pattern is very similar to conservative versus aggressive, with the difference that conservative play beats random play wherease selecting shorter words is inferior to random play. I'm not sure why this is true, it needs further investigation.
+**Q2**. In a grid, is it better to go for the shorter or longer words first?
+
+**A2**. Data indicate selecting shorter words produces faster times than longer words. The pattern is very similar to conservative versus aggressive, with the difference that conservative play beats random play wherease selecting shorter words is inferior to random play. I'm not sure why this is true, it needs further investigation.
 
 to do
 -------
