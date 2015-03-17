@@ -1,24 +1,26 @@
-## crossword
+## Crossword
 
-#### goal
-explore clue selection strategies for solving crosswords, assuming:
+#### Goal
+Explore clue selection strategies for solving crosswords, assuming:
+
 1. solving clues is a function of:
-- answer length 
-- portion of answer completed
+ * answer length 
+ * portion of answer completed
+
 2. solving method returns correct answer or no answer after finite time
 
 
-#### steps
+#### Steps
 
-1. model 2 functions with dictionary data (2.5 hours)
+0. Test myself on dictionary words to model solving function (2.5 hours)
  * find, import words + definitions
  * build tester program with arbitrary # of fills
  * design testing sequence
  * solve large set of clues to gather data
 
-> not realistic enough clues, let's use real clues ...
+> Dictionary does not provide realistic enough clues, need to use real clues ...
 
-1. model 2 functions with real clues (4 hours)
+1. Model solving functions with real clues (4 hours)
  * explore .puz format, .puz readers
  * find, download corpus of nytimes crossword puzzles
  * store all clues into database
@@ -27,32 +29,32 @@ explore clue selection strategies for solving crosswords, assuming:
  * crowdsource model data from others
  * correct for answer typing time
 
-2. design board data structure (2 hours)
+2. Design board data structure (2 hours)
 
-3. model word GUESSER using above data, with passes but no errors (2 hours)
+3. Model word GUESSER using above data, with passes but no errors (2 hours)
  * decide inputs: word length, letters completed, day of week
  * decide functional form
  * extract function parameters
  * code up function
  * testing
  
-4. design word PICKERs (1 hour)
+4. Design word PICKERs (1 hour)
  * brainstorm picking strategies
  * implement strategies
  * testing
 
-6. produce results for n*m grid for various PICKERs and GUESSERs (15 min)
+6. Produce results for n*m grid for various PICKERs and GUESSERs (15 min)
 
-7. analysis (3 hours)
+7. Analysis (3 hours)
 
-TOTAL = 12.5 hours
+Total Time = 12.5 hours
 
-analysis
+Analysis
 --------
 
 **Q0**. Does the model produce approximately correct timing for life-sized crossowrds?
 
-**A0**. Assume Monday through Saturday crosswords have 75 clues each, with average word lengths of 5 for Mon-Wed and 6 for Thurs-Sat. The first column shows appropriately scaled model times for NikhilGuesser and PickCloser (default strategy), the second column shows actual times.
+**A0**. Assume Monday through Saturday crosswords have 75 clues each, with average word lengths of 5 for Mon-Wed and 6 for Thurs-Sat. The first column shows appropriately scaled model times for Guesser and PickCloser (default strategy), the second column shows actual times.
 
 | Day size | model times (std) | real times (std) | n real |
 -----------|-------------------|------------------|---------
@@ -80,6 +82,6 @@ Aggressive play, however, usually requires fewer total word guesses. This makes 
 
 **A2**. Data indicate selecting shorter words produces faster times than longer words. The pattern is very similar to conservative versus aggressive, with the difference that conservative play beats random play wherease selecting shorter words is inferior to random play. I'm not sure why this is true, it needs further investigation.
 
-to do
+To Do
 -------
-- internalize to the model the time variable, i.e. as a part of strategy, choose to invest certain amount of time on a given clue with a variable chance of answering correctly. compare outcomes for different time strategies, for example: slow and steady versus quick guesses. this requires collecting accuracy data given constrained guessing time. it also increases the dimensionality of the model space, may have to eliminate clue difficulty.
+- Internalize to the model the time variable, i.e. as a part of strategy, choose to invest certain amount of time on a given clue with a variable chance of answering correctly. Compare outcomes for different time strategies, for example: slow and steady versus quick guesses. This requires collecting accuracy data given constrained guessing time. It also increases the dimensionality of the model space, may have to eliminate clue difficulty.
